@@ -1,0 +1,28 @@
+{
+  "raw_facility_count": 2696,
+  "filtered_facility_count": 1545,
+  "excluded_facility_count": 1151,
+  "raw_demand_count": 2674,
+  "filtered_demand_count": 1528,
+  "excluded_demand_count": 1146,
+  "raw_candidate_count": 246,
+  "filtered_candidate_count": 164,
+  "excluded_candidate_count": 82,
+  "no_fly_zone_count": 2110,
+  "no_fly_zone_count_by_category": {
+    "government_political": 1308,
+    "critical_infrastructure": 620,
+    "military_security": 159,
+    "airport_buffer": 14,
+    "protected_environment": 9
+  },
+  "excluded_facility_count_by_category": {
+    "airport_buffer": 511,
+    "military_security": 6,
+    "government_political": 769,
+    "critical_infrastructure": 3,
+    "protected_environment": 1
+  },
+  "airport_buffer_m": 3000.0,
+  "site_buffer_m": 150.0
+}
