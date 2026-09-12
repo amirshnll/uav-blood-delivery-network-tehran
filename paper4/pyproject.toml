@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drone-blood-network"
+version = "0.1.0"
+description = "OSM-driven optimization and simulation for Tehran emergency blood drone stations"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "python-dotenv>=1.0",
+  "osmnx>=1.9",
+  "pulp>=2.8",
+  "shapely>=2.0",
+  "pytest>=8.2",
+]
+
+[project.scripts]
+dronenet = "drone_blood_network.__main__:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

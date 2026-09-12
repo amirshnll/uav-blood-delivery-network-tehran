@@ -1,0 +1,1546 @@
+name,amenity,healthcare,facility_category,is_demand_point,is_candidate_station,latitude,longitude,facility_id,no_fly_categories,in_no_fly_zone
+مطب دکتر شفیع زاده,doctors,doctor,doctors,True,False,35.6985188,51.3809752,1,,False
+پلی کلینیک تخصصی جشنواره,clinic,clinic,clinic,True,False,35.7294441,51.5472681,4,,False
+درمانگاه ازگل,clinic,clinic,clinic,True,False,35.7961139,51.4961524,8,,False
+مرکز تصویربرداری پزشکی ملاصدرا MRI,clinic,clinic,clinic,True,False,35.7532647,51.3964376,12,,False
+درمانگاه نور,clinic,clinic,clinic,True,False,35.5903596,51.4350716,13,,False
+درمانگاه ایلیاد,clinic,clinic,clinic,True,False,35.7596124,51.3028471,14,,False
+درمانگاه خیریه شهدای مسجد جامع غدیر خم,clinic,clinic,clinic,True,False,35.7573442,51.4575593,15,,False
+آزمایشگاه تشخیص پزشکی دکتر فلاح,,laboratory,laboratory,True,False,35.6613018,51.4858747,16,,False
+درمانگاه خیریه حضرت ولیعصر(عج),clinic,clinic,clinic,True,False,35.6837091,51.4311174,20,,False
+آزمایشگاه تشخیص طبی مهرآگین,,laboratory,laboratory,True,False,35.7450518,51.5162507,21,,False
+درمانگاه مرزداران,clinic,clinic,clinic,True,False,35.7341808,51.3550407,25,,False
+تراب,clinic,clinic,clinic,True,False,35.7795331,51.4482507,26,,False
+درمانگاه شوکت,clinic,clinic,clinic,True,False,35.7473483,51.5021596,27,,False
+آزمایشگاه تشخیص طبی دکتر محرابیان,,laboratory,laboratory,True,False,35.7498973,51.5443573,28,,False
+درمانگاه شاهد,clinic,clinic,clinic,True,False,35.7339876,51.5390586,31,,False
+ساختمان پزشکان سینا,clinic,clinic,clinic,True,False,35.7416841,51.546967,32,,False
+درمانگاه ایرانپارس,clinic,clinic,clinic,True,False,35.7673953,51.3094619,33,,False
+مطب دکتر محمد کمالی,doctors,doctor,doctors,True,False,35.7402559,51.338697,35,,False
+مرکز بهداشت شرکت ارتباطات زیرساخت,clinic,clinic,clinic,True,False,35.7056453,51.3979621,39,,False
+کلینیک نسیم قیطریه,clinic,clinic,clinic,True,False,35.7923,51.4529144,42,,False
+کلینیک تخصصی شبانه روزی ندا,clinic,,clinic,True,False,35.7973568,51.4573878,43,,False
+کلینیک پوست دکتر دولتى,clinic,,clinic,True,False,35.7619289,51.4126116,46,,False
+مطب دکتر ناطقیان,doctors,doctor,doctors,True,False,35.7527628,51.4490184,48,,False
+کلینیک,clinic,clinic,clinic,True,False,35.7864944,51.4869653,49,,False
+دکتر مجتبی کلینی جراح زیبایی,doctors,doctor,doctors,True,False,35.7444093,51.4115326,51,,False
+مطب دکتر پارسا,doctors,doctor,doctors,True,False,35.770495,51.4400062,52,,False
+کیلینیک تخصصی تصویربرداری دلیری,clinic,clinic,clinic,True,False,35.6574773,51.372674,53,,False
+کلینیک تصویربرداری گامانایف,clinic,clinic,clinic,True,False,35.7671947,51.4255189,54,,False
+کیلینیک تخصصی اطفال پگاه,clinic,clinic,clinic,True,False,35.7437132,51.4584503,57,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.7563219,51.3768393,59,,False
+آزمایشگاه پاتوبیولوژی مرکزی,,laboratory,laboratory,True,False,35.7977808,51.4184429,60,,False
+ساختمان پزشکان,clinic,clinic,clinic,True,False,35.7374215,51.3765436,63,,False
+درمانگاه خیریه ولیعصر(ارشاد),clinic,clinic,clinic,True,False,35.6019747,51.427069,66,,False
+مطب دکتر بهار محجوبی,doctors,doctor,doctors,True,False,35.7285404,51.4352524,68,,False
+دکتر نبوی فوق تخصص آلرژی کودکان,doctors,doctor,doctors,True,False,35.7797316,51.4493874,69,,False
+کلینیک امام رضا,clinic,clinic,clinic,True,False,35.6555559,51.3538284,72,,False
+درمانگاه رئوف,clinic,clinic,clinic,True,False,35.7745606,51.4338977,73,,False
+رادیولوژی و سونوگرافی بزرگمهر,doctors,doctor,doctors,True,False,35.7036552,51.4046207,75,,False
+درمانگاه بهاران,clinic,clinic,clinic,True,False,35.6504544,51.3562798,76,,False
+unnamed,clinic,clinic,clinic,True,False,35.76849,51.291753,78,,False
+کیش طب آریا /تن آور,clinic,clinic,clinic,True,False,35.7705886,51.4399076,84,,False
+مطب دکتر سهراب هاشمى فشارکى,doctors,doctor,doctors,True,False,35.7800155,51.4492664,86,,False
+آزمایشگاه پیشرفته,,laboratory,laboratory,True,False,35.6576189,51.3611572,87,,False
+مرکز اهدای خون شهدای چیذر,,blood_donation,blood_donation,False,True,35.7975498,51.4567779,92,,False
+دکتر حامد عباسی,doctors,doctor,doctors,True,False,35.8048619,51.4217257,96,,False
+درمانگاه ابوریحان,clinic,clinic,clinic,True,False,35.6995742,51.4022672,98,,False
+کاشت مو ایران نوین,clinic,clinic,clinic,True,False,35.7868693,51.3506788,99,,False
+درمانگاه شبانه روزی ساج,clinic,clinic,clinic,True,False,35.7849008,51.3613315,100,,False
+unnamed,clinic,clinic,clinic,True,False,35.7235184,51.4352105,101,,False
+unnamed,clinic,clinic,clinic,True,False,35.7251761,51.4354727,102,,False
+دکتر کوهستانی,doctors,doctor,doctors,True,False,35.7701583,51.3613338,103,,False
+آزمایشگاه دکتر ریاضی,,laboratory,laboratory,True,False,35.7263279,51.3225103,104,,False
+قضاوی,doctors,doctor,doctors,True,False,35.806854,51.4676503,105,,False
+دکتر مالک اطمینان راد متخصص ستون فقرات,doctors,,doctors,True,False,35.7211539,51.3915216,106,,False
+انجمن دندانپزشکان عمومی ایران,doctors,,doctors,True,False,35.7793917,51.4212408,112,,False
+دکتر چناری,doctors,doctor,doctors,True,False,35.7314102,51.3508291,113,,False
+مطب دکتر فرزانه,doctors,doctor,doctors,True,False,35.7506357,51.4086453,114,,False
+دکتر سهیلا عارفی,doctors,doctor,doctors,True,False,35.7769338,51.3543045,115,,False
+ساختمان پزشکان کاوه,clinic,clinic,clinic,True,False,35.780236,51.4491389,117,,False
+آزمایشگاه فراز,,laboratory,laboratory,True,False,35.7283552,51.5137706,118,,False
+ساختمان شماره ۳ بیمارستان,hospital,hospital,hospital,True,True,35.640617,51.4204254,126,,False
+دکتر مهسا قربانی,doctors,doctor,doctors,True,False,35.7503106,51.4102685,128,,False
+مرکز اهدای خون وصال,,blood_donation,blood_donation,False,True,35.7060269,51.3988835,133,,False
+کلینیک کار درمانی صالحی,clinic,clinic,clinic,True,False,35.7077906,51.3873493,134,,False
+نصیری,doctors,doctor,doctors,True,False,35.7688571,51.3708374,136,,False
+درمانگاه دروس,clinic,clinic,clinic,True,False,35.7675676,51.4496359,137,,False
+مرکز توانبخشی ارمغان عصر,clinic,clinic,clinic,True,False,35.7468783,51.4126691,138,,False
+مطب دکتر تقوى,doctors,doctor,doctors,True,False,35.7719957,51.4408716,140,,False
+درمانگاه مهزیار,clinic,clinic,clinic,True,False,35.6563352,51.3868483,142,,False
+آزمایشگاه تشخیص طبی جواد,,laboratory,laboratory,True,False,35.6558827,51.3871816,143,,False
+۳۴۴ clinic,clinic,clinic,clinic,True,False,35.7236966,51.4171623,146,,False
+مطب دکتر کشکولی,doctors,doctor,doctors,True,False,35.752491,51.3972619,147,,False
+آزمایشگاه پاتوبیولوژی آزادی,,laboratory,laboratory,True,False,35.7003321,51.3749988,148,,False
+مرکز جراحی و پلی کلینیک تخصصی ماد,clinic,clinic,clinic,True,False,35.7732109,51.3658294,149,,False
+دکتر ناصر سیگاری طب سوزنی,doctors,,doctors,True,False,35.7602223,51.4101898,152,,False
+unnamed,,clinic,clinic,True,False,35.7965948,51.429244,156,,False
+درمانگاه ۱۳ آبان,clinic,clinic,clinic,True,False,35.6399367,51.4111283,158,,False
+درمانگاه شبانه روزی حیان,clinic,clinic,clinic,True,False,35.756358,51.28931,159,,False
+درمانگاه اکبر آباد,clinic,clinic,clinic,True,False,35.6791797,51.3772466,162,,False
+آزمایشگاه,,laboratory,laboratory,True,False,35.7011873,51.4104405,165,,False
+آزمایشگاه پزشکی,,laboratory,laboratory,True,False,35.6620327,51.4451367,167,,False
+طب سنتی دکتر پرما,doctors,doctor,doctors,True,False,35.7638965,51.4750673,168,,False
+دکتر نفیسه کاشانی زاده,doctors,doctor,doctors,True,False,35.70313,51.4028201,169,,False
+آزمایشگاه پزشکی,,laboratory,laboratory,True,False,35.7091389,51.4063969,171,,False
+مرکز اهداء خون,,blood_donation,blood_donation,False,True,35.7110248,51.40584,172,,False
+آزمایشگاه پزشکی ناجا,,laboratory,laboratory,True,False,35.6999007,51.3926964,173,,False
+درمانگاه مجیدیه,clinic,clinic,clinic,True,False,35.7345487,51.4624641,175,,False
+کلینیک ویژه بیمارستان شریعتی,clinic,clinic,clinic,True,False,35.722021,51.389346,179,,False
+دکتر پریسا عبدلی,doctors,doctor,doctors,True,False,35.7412915,51.472301,184,,False
+مطب دکتر مجید حاتمی,doctors,doctor,doctors,True,False,35.7675956,51.411357,186,,False
+آزمایشگاه پاتوبیولوژی شمس,,laboratory,laboratory,True,False,35.7488785,51.4716835,187,,False
+یاریگر,clinic,clinic,clinic,True,False,35.74609,51.4056011,189,,False
+unnamed,clinic,clinic,clinic,True,False,35.7432773,51.5310422,192,,False
+unnamed,clinic,clinic,clinic,True,False,35.7950376,51.4823437,193,,False
+آزمایشگاه نیلو,,laboratory,laboratory,True,False,35.7405977,51.4103486,194,,False
+فرهاد علی همتی,doctors,doctor,doctors,True,False,35.772903,51.4346088,196,,False
+مطب خانم دکتر رزیتا داوری,doctors,,doctors,True,False,35.7216972,51.389098,197,,False
+unnamed,doctors,doctor,doctors,True,False,35.8098017,51.4128784,199,,False
+درمانگاه خیریه محمدولی فرمانفرمائیان,clinic,clinic,clinic,True,False,35.6446272,51.3070955,201,,False
+درمانگاه خیریه المهدی,clinic,,clinic,True,False,35.7500585,51.451529,202,,False
+مطب دکتر اصغری,doctors,doctor,doctors,True,False,35.7817361,51.3731683,204,,False
+آزمایشگاه پاتولوژی و ژنتیک کریمی نژاد - نجم آبادی,,laboratory,laboratory,True,False,35.7545488,51.3666761,205,,False
+دکتر محمود ارشد فوق تخصص غدد,doctors,doctor,doctors,True,False,35.7230132,51.3720936,207,,False
+مجتمع پزشکان قائم,clinic,clinic,clinic,True,False,35.6350592,51.4917414,208,,False
+درمانگاه رازی,clinic,clinic,clinic,True,False,35.6337727,51.4969899,211,,False
+درمانگاه شهرداری منطقه یک,clinic,clinic,clinic,True,False,35.8124656,51.4558123,212,,False
+رادیولوژی تخصصی دهان و فک دکتر ساندرا مهر علی زاده,doctors,doctor,doctors,True,False,35.7409807,51.4636145,213,,False
+لاله,clinic,clinic,clinic,True,False,35.7292646,51.3611484,214,,False
+درمانگاه ستاره,clinic,clinic,clinic,True,False,35.771175,51.3793367,215,,False
+شهید کلانتری,clinic,clinic,clinic,True,False,35.7160025,51.4178664,216,,False
+درمانگاه سحر,clinic,clinic,clinic,True,False,35.7445133,51.3040702,218,,False
+مطب دکتر شهریار یحیوی,doctors,doctor,doctors,True,False,35.7562941,51.3946437,222,,False
+درمانگاه شهرک دانشگاه,clinic,clinic,clinic,True,False,35.7158924,51.2071239,223,,False
+unnamed,doctors,doctor,doctors,True,False,35.7236403,51.423459,224,,False
+مطب دکتر محمد میر,doctors,doctor,doctors,True,False,35.7249921,51.382961,226,,False
+مجتمع پرشکی حضرت زهرا(ع),clinic,clinic,clinic,True,False,35.7598027,51.2810414,228,,False
+مطب دکتر رضوانی,doctors,doctor,doctors,True,False,35.7413788,51.4100457,230,,False
+کلینیک ترک اعتیاد فانوس,clinic,drug_rehabilitation,clinic,True,False,35.7831609,51.3559053,234,,False
+دکترفریده صمدی,doctors,doctor,doctors,True,False,35.7341851,51.4137519,235,,False
+درمانگاه فرهنگیان زینب بختیاری,clinic,clinic,clinic,True,False,35.6511228,51.4868987,236,,False
+درمانگاه شبانه روزی فرجام,clinic,clinic,clinic,True,False,35.7397622,51.4948536,237,,False
+درمانگاه شفا,clinic,clinic,clinic,True,False,35.7339323,51.5165364,239,,False
+درمانگاه شبانه روزی اتکا,clinic,clinic,clinic,True,False,35.6250867,51.411495,240,,False
+دکتر علی بهتری متخصص مغز,doctors,doctor,doctors,True,False,35.7408926,51.4104665,242,,False
+سلامت مادران,clinic,clinic,clinic,True,False,35.7806149,51.4620316,244,,False
+مطب حکیم دکتر حسین روازاده,doctors,doctor,doctors,True,False,35.696531,51.3870168,245,,False
+مطب دکتر مجید صادقی,doctors,doctor,doctors,True,False,35.7817611,51.3732047,247,,False
+مطب دکتر سخاوت‌فر,doctors,doctor,doctors,True,False,35.7817424,51.3732105,248,,False
+مرکز بهداشت صبارو,clinic,clinic,clinic,True,False,35.7685647,51.390941,249,,False
+کلینیک,clinic,clinic,clinic,True,False,35.665753,51.4477242,251,,False
+مطب دکتر فاطمه اصفهانی,doctors,doctor,doctors,True,False,35.7769375,51.4655714,253,,False
+مرکز بهداشت المپیک,clinic,clinic,clinic,True,False,35.7599724,51.2652901,255,,False
+درمانگاه به بخش,clinic,clinic,clinic,True,False,35.7364571,51.5559589,256,,False
+رادیولوژی و سونوگرافی خورشید,doctors,doctor,doctors,True,False,35.7439335,51.5340766,257,,False
+میکرودرم دکتر آزادی فر,doctors,doctor,doctors,True,False,35.6399209,51.487396,260,,False
+unnamed,doctors,doctor,doctors,True,False,35.7761603,51.4653463,262,,False
+unnamed,,blood_donation,blood_donation,False,True,35.7579342,51.5391741,263,,False
+مرکز تصویربرداری کوثر,clinic,yes,clinic,True,False,35.772387,51.4615341,264,,False
+مجتمع دارویی درمانی هلال ایران,clinic,clinic,clinic,True,False,35.7334259,51.5438503,265,,False
+دکتر طاهره رشیدی,doctors,doctor,doctors,True,False,35.6543346,51.3870533,266,,False
+درمانگاه کوثر,clinic,clinic,clinic,True,False,35.8004565,51.5078239,269,,False
+unnamed,clinic,clinic,clinic,True,False,35.6684099,51.4445991,270,,False
+امین کلینیک,clinic,clinic,clinic,True,False,35.7408344,51.4106089,271,,False
+کلینیک درمان دردهای عضلانی و مفصلی,clinic,doctor,clinic,True,False,35.7358653,51.3341346,275,,False
+مرکز بهداشت عظیم آباد,clinic,clinic,clinic,True,False,35.6111655,51.4120378,277,,False
+درمانگاه پانزده شعبان,clinic,clinic,clinic,True,False,35.6551221,51.4446172,280,,False
+درمانگاه شبانه روزی طب الحسن,clinic,clinic,clinic,True,False,35.6390552,51.4987087,282,,False
+داروخانه,pharmacy,hospital,pharmacy,False,False,35.6388783,51.4987536,283,,False
+مطب دکتر درخشان,doctors,doctor,doctors,True,False,35.7565147,51.4105262,287,,False
+رادیولوژی و سونوگرافی راد,doctors,doctor,doctors,True,False,35.707711,51.3862222,288,,False
+دکتر مسعود شیروانی,doctors,doctor,doctors,True,False,35.7668885,51.3648045,289,,False
+چشم‌ پزشکی هلال احمر,clinic,clinic,clinic,True,False,35.7347296,51.5456346,291,,False
+کلینیک زیبایی ویولت,clinic,clinic,clinic,True,False,35.7340632,51.3751923,292,,False
+کلینیک شبانه روزی یاس ناز,clinic,clinic,clinic,True,False,35.7969511,51.41741,294,,False
+کلینیک ارتوپدی ماهان,clinic,clinic,clinic,True,False,35.7232856,51.4237348,295,,False
+ساختمان پزشکان مهرآفرین,clinic,clinic,clinic,True,False,35.766865,51.4406502,297,,False
+گروه پزشکی آریان,clinic,clinic,clinic,True,False,35.7667566,51.3644928,299,,False
+درمانگاه خیریه تخصصی و فوق تخصصی اباعبدالله الحسین علیه السلام,clinic,clinic,clinic,True,False,35.7349127,51.531675,300,,False
+درمانگاه شهدای علی آباد,clinic,clinic,clinic,True,False,35.6245442,51.4231461,301,,False
+درمانگاه شهدای دخانیات,clinic,clinic,clinic,True,False,35.6733252,51.3870344,303,,False
+آزمایشگاه پاتوبیولوژی کیکاووس,,laboratory,laboratory,True,False,35.7792128,51.4446891,306,,False
+کلینیک دندانپزشکی درسان,dentist,clinic,dentist,False,False,35.7619149,51.3250871,308,,False
+آزمایشگاه پاتوبیولوژی نور,,laboratory,laboratory,True,False,35.7080574,51.3884066,309,,False
+درمانگاه شبانه روزی ایران زمین,clinic,clinic,clinic,True,False,35.7057587,51.3901098,312,,False
+مرکز تصویربرداری پزشکی پارسیان,clinic,diagnostic radiology,clinic,True,False,35.7055667,51.3866146,313,,False
+unnamed,clinic,clinic,clinic,True,False,35.7598036,51.4101106,314,,False
+درمانگاه پایتخت,clinic,clinic,clinic,True,False,35.7901168,51.4352388,316,,False
+ساختمان پزشکان فتح,clinic,clinic,clinic,True,False,35.7599977,51.3301176,317,,False
+آزمایشگاه دامپزشکی لابرا,,laboratory,laboratory,True,False,35.7095659,51.3724566,318,,False
+مطب طب سنتی,doctors,,doctors,True,False,35.7388203,51.3252228,319,,False
+دکتر ستایش مهر,doctors,doctor,doctors,True,False,35.7631806,51.4438895,322,,False
+بیمارستان تخصصی چشم پزشکی بینا,hospital,hospital,hospital,True,True,35.7380742,51.4779358,323,,False
+مجتمع پزشکان تهرانپارس,clinic,clinic,clinic,True,False,35.743181,51.5317656,326,,False
+فیزیوتراپی و مرکز سلامت رامتن,clinic,clinic,clinic,True,False,35.7544532,51.3824505,327,,False
+درمانگاه جواد ائمه,clinic,clinic,clinic,True,False,35.6458797,51.4904015,328,,False
+درمانگاه تجریش,clinic,clinic,clinic,True,False,35.806004,51.4258076,330,,False
+آزمایشگاه ژنتیک و پاتوبیولوژی نورا,,laboratory,laboratory,True,False,35.7999769,51.4505039,331,,False
+مرکز درمانی ۱۱۰,clinic,clinic,clinic,True,False,35.7537034,51.4513239,337,,False
+ساختمان پزشکی شریعتی,clinic,clinic,clinic,True,False,35.7489972,51.4493603,339,,False
+حدود دکتر محمد مهدی امام,doctors,,doctors,True,False,35.7237492,51.4071256,340,,False
+دكتر فرناز محامدي متخصص كودكان و نوزادان (اطفال),doctors,doctor,doctors,True,False,35.7755707,51.3662705,345,,False
+مرکز مشاوره بینش نوین,clinic,psychotherapist,clinic,True,False,35.7652777,51.4412608,346,,False
+آزمایشگاه هیوا,,laboratory,laboratory,True,False,35.7646914,51.4408683,347,,False
+دکتر اسفندیار کریمی,doctors,doctor,doctors,True,False,35.7438202,51.5338707,348,,False
+درمانگاه شبانه روزی سلیم,clinic,clinic,clinic,True,False,35.6253652,51.4196073,349,,False
+کلینیک طب سوزنی دکتر سمیه غیاثی,clinic,clinic,clinic,True,False,35.7704308,51.3561496,352,,False
+کلینیک دامپزشکی کسری,clinic,clinic,clinic,True,False,35.8200969,51.4806086,353,,False
+بیمارستان روانپزشکی رضایی,hospital,hospital,hospital,True,True,35.8155589,51.4674889,354,,False
+مجتمع پزشکان شهر آرا,clinic,clinic,clinic,True,False,35.7222961,51.372193,355,,False
+کلینیک فروردین,clinic,,clinic,True,False,35.7973554,51.4468361,357,,False
+دکتر کورش صمدپور,doctors,doctor,doctors,True,False,35.7382272,51.3266522,358,,False
+کلینیک سامیا,clinic,clinic,clinic,True,False,35.7672078,51.4576403,361,,False
+دكتر پرورش,doctors,doctor,doctors,True,False,35.7565622,51.3986713,362,,False
+پزشکی هسته ای,clinic,clinic,clinic,True,False,35.7610179,51.3705493,363,,False
+مجتمع تخصصی دارالشفا,clinic,clinic,clinic,True,False,35.7964536,51.4573723,364,,False
+دکتر علیرضا عارف زاده، فوق تخصص غدد,doctors,doctor,doctors,True,False,35.7639199,51.4447113,365,,False
+دکتر علی اکبر سیاری,doctors,doctor,doctors,True,False,35.7653245,51.4433321,366,,False
+دکتر رامین عالی نژاد,doctors,doctor,doctors,True,False,35.8094207,51.4430693,367,,False
+مطب دکتر ثریا شادمان فر,doctors,doctor,doctors,True,False,35.742405,51.4495271,368,,False
+کلینیک فوق تخصصی محب مهر,clinic,clinic,clinic,True,False,35.7615128,51.410373,371,,False
+درمانگاه کوثر,clinic,clinic,clinic,True,False,35.6742351,51.5132375,372,,False
+درمانگاه شبانه روزی منان,clinic,clinic,clinic,True,False,35.7892811,51.3459213,373,,False
+دکتر محمود آستانه,doctors,doctor,doctors,True,False,35.7290118,51.4129121,374,,False
+آزمایشگاه و پاتوبیولوژی فروغ,,laboratory,laboratory,True,False,35.7477904,51.5365726,377,,False
+کلینیک آنو,clinic,clinic,clinic,True,False,35.759865,51.4102193,378,,False
+درمانگاه شبانه روزی فرشته,clinic,clinic,clinic,True,False,35.7923764,51.4174107,381,,False
+مرکز تصویربرداری و پرتو درمانی پردیس نور نیلو,clinic,yes,clinic,True,False,35.7620249,51.4595939,382,,False
+مرکز ولگا,clinic,clinic,clinic,True,False,35.7672226,51.4617019,383,,False
+درمانگاه نادر,clinic,hospital,clinic,True,False,35.7303205,51.5408652,385,,False
+مرکز بهداشت نیک نژاد,clinic,clinic,clinic,True,False,35.5900167,51.445203,387,,False
+دکتر صفیه چعباوی زاده,doctors,doctor,doctors,True,False,35.7531649,51.4106417,393,,False
+خانه سلامت کن,clinic,clinic,clinic,True,False,35.7645451,51.2813887,394,,False
+آزمایشگاه سلاله,,laboratory,laboratory,True,False,35.7076604,51.3978645,395,,False
+کلینیک دکتر محرابی,doctors,doctor,doctors,True,False,35.6517857,51.3619372,397,,False
+آزمایشگاه ماد,,laboratory,laboratory,True,False,35.7806571,51.4620272,402,,False
+ساختمان پزشکان ظفر,clinic,clinic,clinic,True,False,35.7656513,51.4425887,405,,False
+unnamed,,clinic,clinic,True,False,35.7330678,51.3987121,407,,False
+درمانگاه تخصصی تشخیص و درمان ناباروری نیکان,clinic,clinic,clinic,True,False,35.8000274,51.4903378,408,,False
+کلینیک خانه سفید,clinic,clinic,clinic,True,False,35.7685729,51.4144624,409,,False
+مجتمع پزشکان سجاد,clinic,clinic,clinic,True,False,35.7661156,51.3402676,410,,False
+مطب حکیم حسین خیراندیش,doctors,doctor,doctors,True,False,35.7661154,51.3402729,411,,False
+رادیولوژی فک و صورت اندرزگو,doctors,doctor,doctors,True,False,35.8000068,51.4505964,412,,False
+کلینیک دندانپزشکی اقاقیا,clinic,clinic,clinic,True,False,35.7471492,51.3255792,413,,False
+کلینیک فیزیوتراپی رامتن,clinic,clinic,clinic,True,False,35.7232878,51.4238688,415,,False
+کلینیک اسمایل اسپا,clinic,dentist,clinic,True,False,35.8072228,51.4085673,416,,False
+درمانگاه شبانه روزی مهر تهرانپارس,clinic,clinic,clinic,True,False,35.7496418,51.5417932,417,,False
+درمانگاه شهرداری منطقه چهار,clinic,clinic,clinic,True,False,35.7426447,51.5570039,418,,False
+آزمایشگاه پاتوبیولوژی دکتر خسروشاهی,,laboratory,laboratory,True,False,35.7990647,51.4143652,419,,False
+بخش کرونا,hospital,hospital,hospital,True,True,35.8154618,51.4961203,420,,False
+کلینیک سیماگل,clinic,clinic,clinic,True,False,35.798522,51.4196661,421,,False
+کلینیک زیبایی دکتر زرگران,clinic,clinic,clinic,True,False,35.8012869,51.4603921,422,,False
+درمانگاه آهنگ,clinic,clinic,clinic,True,False,35.6577613,51.4761268,423,,False
+درمانگاه آزادگان,clinic,clinic,clinic,True,False,35.6259613,51.43574,426,,False
+unnamed,doctors,,doctors,True,False,35.7840985,51.4617982,427,,False
+دکتر عبدالصمد مدرسی,doctors,doctor,doctors,True,False,35.6310515,51.3686609,428,,False
+کلینیک دندانپزشکی مطهر,hospital,hospital,hospital,True,True,35.6310205,51.3686736,429,,False
+درمانگاه شبانه روزی مطهر,hospital,hospital,hospital,True,True,35.6310016,51.3686865,430,,False
+خانه بهداشت مینی سیتی,clinic,clinic,clinic,True,False,35.7993955,51.5055316,432,,False
+لیا کلینیک,clinic,clinic,clinic,True,False,35.7971215,51.4460706,433,,False
+دکتر هاشم شمشادی,doctors,doctor,doctors,True,False,35.7413278,51.4094393,435,,False
+مرکز بهداشت و درمان دانشگاه تهران,clinic,clinic,clinic,True,False,35.7335834,51.3864601,436,,False
+کلینیک شمیران نو,clinic,clinic,clinic,True,False,35.7967268,51.4341805,438,,False
+کلینیک زخم دستهای مهربان,clinic,clinic,clinic,True,False,35.7886623,51.4319212,441,,False
+کلینیک قیطریه,clinic,clinic,clinic,True,False,35.7958126,51.4397241,442,,False
+دارالشفاء قائم,clinic,clinic,clinic,True,False,35.8016417,51.4404436,443,,False
+گروه درمان چاقی باراکا,,clinic,clinic,True,False,35.77329,51.4429885,444,,False
+ساختمان پزشکان سپهر,doctors,doctor,doctors,True,False,35.7632289,51.4435778,446,,False
+بیمارستان روانپزشکی دلارام سینا,hospital,hospital,hospital,True,True,35.6363573,51.4344209,447,,False
+مطب دکتر سامان محمدی پور,doctors,doctor,doctors,True,False,35.7800297,51.4598466,451,,False
+مرکز پزشکان بازرگان,clinic,,clinic,True,False,35.652062,51.3405365,452,,False
+مطب دکتر آزیتا دادگر,doctors,doctor,doctors,True,False,35.6919478,51.376204,458,,False
+کلینیک درد بهار,clinic,clinic,clinic,True,False,35.7356279,51.3354876,459,,False
+درمانگاه درکه,clinic,clinic,clinic,True,False,35.8086493,51.3819038,461,,False
+دکتر آذر اصلانی مقدم,doctors,doctor,doctors,True,False,35.7412094,51.4095206,463,,False
+درمانگاه شبانه روزی حکیمان,clinic,clinic,clinic,True,False,35.7690849,51.4763686,464,,False
+دارالشفاء کوثر,clinic,clinic,clinic,True,False,35.5857303,51.4368644,465,,False
+دکتر مهسا ساداتی,doctors,psychotherapist,doctors,True,False,35.730672,51.3786787,466,,False
+مطب دکتر القاسی,doctors,doctor,doctors,True,False,35.7566395,51.3958122,467,,False
+کلینیک ایرانیان,clinic,clinic,clinic,True,False,35.7796864,51.4597092,470,,False
+دکتر نسترن گودرزی متخصص بیماریهای دهان، فک و صورت,doctors,doctor,doctors,True,False,35.76399,51.445051,479,,False
+درمانگاه شفا مهر صدرا,clinic,,clinic,True,False,35.7241501,51.4080173,480,,False
+مرکز بهداشت ۱۲ بهمن,clinic,,clinic,True,False,35.6472919,51.4714922,481,,False
+مرکز بهداشت امام رضا,clinic,clinic,clinic,True,False,35.6300901,51.3511021,482,,False
+مرکز بهداشت قائم,clinic,clinic,clinic,True,False,35.8059414,51.5258507,483,,False
+unnamed,,clinic,clinic,True,False,35.6378672,51.4440823,484,,False
+مرکز خدمات جامع سلامت امامزاده قاسم,clinic,,clinic,True,False,35.815953,51.4357331,486,,False
+مرکز بهداشت سمرقندی,clinic,,clinic,True,False,35.7487544,51.5245633,491,,False
+مرکز بهداشت سردار جنگل,clinic,clinic,clinic,True,False,35.7646155,51.3257311,492,,False
+مرکز بهداشت شهید آیت,clinic,clinic,clinic,True,False,35.6393505,51.3698631,493,,False
+درمانگاه شهدای شهر ری,clinic,clinic,clinic,True,False,35.6055038,51.4469045,501,,False
+مرکز بهداشت هنگام,clinic,,clinic,True,False,35.7494016,51.5106442,502,,False
+مرکز بهداشت امام حسن مجتبی,clinic,,clinic,True,False,35.7432546,51.5556084,503,,False
+کلینیک الزهرا,clinic,,clinic,True,False,35.7655757,51.3908599,504,,False
+مرکز بهداشت آفرینش,clinic,,clinic,True,False,35.6370684,51.4664476,505,,False
+مرکز بهداشت شهر زیبا,clinic,clinic,clinic,True,False,35.7490426,51.2873198,509,,False
+مرکز بهداشت جوادیه شهید شاطری,clinic,,clinic,True,False,35.6571216,51.387062,510,,False
+مرکز بهداشت سازمان برنامه,clinic,clinic,clinic,True,False,35.7464269,51.3003536,512,,False
+مرکز سلامت ظهیرآباد,clinic,clinic,clinic,True,False,35.5909773,51.4483575,514,,False
+مرکز بهداشت کادوس,clinic,clinic,clinic,True,False,35.736346,51.5351521,515,,False
+مرکز سلامت مبارکی,clinic,clinic,clinic,True,False,35.7747455,51.4925987,516,,False
+مرکز سلامت جامعه مبارکی,clinic,clinic,clinic,True,False,35.6088542,51.426017,518,,False
+مرکز بهداشت ناصری نیا,clinic,clinic,clinic,True,False,35.7387088,51.3774646,519,,False
+مرکز خانه سلامت شقایق,clinic,,clinic,True,False,35.7576577,51.3022288,520,,False
+آزمایشگاه مواد غذایی مرجعان خاتم,,laboratory,laboratory,True,False,35.6235265,51.3823964,522,,False
+مرکز بهداشت چیذر,clinic,,clinic,True,False,35.7978293,51.4562501,523,,False
+مرکز جامع سلامت سعادت‌آباد,clinic,clinic,clinic,True,False,35.7917388,51.3833946,524,,False
+مرکز جامع سلامت مسجدالسادات,clinic,,clinic,True,False,35.7243657,51.4079958,527,,False
+مرکز بهداشت حاج یحیی آقا سید عبدالله,clinic,clinic,clinic,True,False,35.6540904,51.4937715,529,,False
+مركز خدمات جامع بهداشت فرحزاد,clinic,,clinic,True,False,35.7942854,51.3427725,531,,False
+مرکز بهداشت شیبانی,clinic,,clinic,True,False,35.7802363,51.4579198,532,,False
+unnamed,clinic,clinic,clinic,True,False,35.663773,51.4350647,533,,False
+مرکز سلامت شیخ احمد کافی,clinic,,clinic,True,False,35.6383991,51.4178932,535,,False
+مرکز بهداشت شهید یغماییان,clinic,clinic,clinic,True,False,35.6184574,51.4537798,536,,False
+مرکز بهداشت شهید جمالی,clinic,clinic,clinic,True,False,35.597802,51.4397532,537,,False
+مرکز بهداشت وردآورد,clinic,clinic,clinic,True,False,35.7390202,51.1370768,538,,False
+کلینیک شبانه روزی خانی آباد,clinic,clinic,clinic,True,False,35.6283713,51.3909381,540,,False
+کلینیک سپینود,clinic,clinic,clinic,True,False,35.8061666,51.4624286,541,,False
+دکتر لیلا ملکی / جراح بینی,doctors,doctor,doctors,True,False,35.7973926,51.4080866,542,,False
+دکتر سعید رضا یوسف,doctors,doctor,doctors,True,False,35.7862089,51.4266892,543,,False
+کلینیک دامپزشکی آریانا,,clinic,clinic,True,False,35.7540861,51.3262618,544,,False
+مطب دندانپزشکی نیک,clinic,clinic,clinic,True,False,35.7358756,51.3344331,545,,False
+دکتر افشین طاهری اعظم,doctors,doctor,doctors,True,False,35.7806345,51.3685178,546,,False
+رنگ و ابزار شهریاری,clinic,,clinic,True,False,35.7187299,51.3740239,547,,False
+نگین آزادی,clinic,clinic,clinic,True,False,35.7009035,51.3810186,549,,False
+دکتر محمدعلی اخوت پور,doctors,doctor,doctors,True,False,35.7562248,51.3941513,551,,False
+راهپویان شفا,clinic,clinic,clinic,True,False,35.7709113,51.3060098,556,,False
+مرکز جامع سلامت سوهانک,clinic,clinic,clinic,True,False,35.8034743,51.5355365,559,,False
+آزمایشگاه زمرد,,laboratory,laboratory,True,False,35.7578985,51.450719,560,,False
+درمانگاه شبانه روزی فرح بخش,clinic,clinic,clinic,True,False,35.7406509,51.4661826,562,,False
+درمانگاه شبانه روزی امین,clinic,clinic,clinic,True,False,35.6373572,51.4507743,564,,False
+مرکز بهداشتی درمانی راهور,clinic,,clinic,True,False,35.7002131,51.375257,565,,False
+کلینیک ارتوپدی سپید,clinic,clinic,clinic,True,False,35.768871,51.475804,568,,False
+کلینیک فوق تخصصی قلب سلامت,clinic,clinic,clinic,True,False,35.7996193,51.4492294,569,,False
+دکتر حسین دباغیان (فوق متخصص قلب و عروق),doctors,doctor,doctors,True,False,35.7995694,51.4491602,570,,False
+درمانگاه شبانه روزی سپیدار,clinic,clinic,clinic,True,False,35.7428588,51.5376249,571,,False
+دکتر غزوینیان,doctors,,doctors,True,False,35.76018,51.4002049,574,,False
+مرکز ارتوپدی فنی پایار,clinic,clinic,clinic,True,False,35.7597404,51.4173847,575,,False
+کلینیک رازنو,clinic,clinic,clinic,True,False,35.740636,51.4456874,577,,False
+دكتر سميرا حسن خانی جراح و متخصص زنان، زايمان و نازایی,doctors,doctor,doctors,True,False,35.7135598,51.3683833,578,,False
+دکتر نیما توکلی - متخصص اعصاب و روان,doctors,doctor,doctors,True,False,35.7235261,51.4235984,582,,False
+دکتر نازنین صفائی,doctors,doctor,doctors,True,False,35.7972275,51.409595,583,,False
+وستالب,clinic,clinic,clinic,True,False,35.7542463,51.4109982,584,,False
+کلینیک جوان,clinic,clinic,clinic,True,False,35.7445613,51.4119459,586,,False
+درمانگاه آزادگان,clinic,clinic,clinic,True,False,35.6625474,51.4594474,588,,False
+مطب دکتر فاطمه ابراهیمی,doctors,doctor,doctors,True,False,35.7458743,51.41138,589,,False
+کلینیک پوست و مو ساعی,clinic,clinic,clinic,True,False,35.7680988,51.4191241,590,,False
+مطب دکتر مهدی صالح زاده,doctors,doctor,doctors,True,False,35.7362856,51.4638748,591,,False
+کلینیک ماهک,clinic,clinic,clinic,True,False,35.723316,51.41166,592,,False
+دکتر سیامک مرادی,doctors,doctor,doctors,True,False,35.7664665,51.4429076,593,,False
+ساختمان پزشکان سبز,doctors,doctor,doctors,True,False,35.7655706,51.4421084,594,,False
+دکتر زهرا امیدوار,doctors,doctor,doctors,True,False,35.7426129,51.4472434,595,,False
+کلینیک زیبایی پارسیان طب,clinic,doctor,clinic,True,False,35.7599931,51.4426617,596,,False
+ساختمان پزشکان حکیم,doctors,doctor,doctors,True,False,35.7650152,51.4415233,597,,False
+unnamed,doctors,doctor,doctors,True,False,35.7080639,51.388873,598,,False
+مرکز بهداشت دولت آباد,clinic,clinic,clinic,True,False,35.6171059,51.452614,599,,False
+آزمایشگاه تشخیص طبی خاتم,,laboratory,laboratory,True,False,35.6336878,51.3726782,600,,False
+مرکز جراحی سهند,clinic,clinic,clinic,True,False,35.7323872,51.4426082,606,,False
+مرکز ارتوپدی فنی طب نو,clinic,clinic,clinic,True,False,35.7339081,51.4404107,607,,False
+کلینیک دامپزشکی سهروردی,,clinic,clinic,True,False,35.7275337,51.4368537,608,,False
+درمانگاه خيريه امام جعفر صادق ع تهرانپارس,clinic,clinic,clinic,True,False,35.7431631,51.554655,609,,False
+پایگاه سلامت باغ اناری,clinic,clinic,clinic,True,False,35.7527238,51.5446671,610,,False
+کلینیک گوارش,,clinic,clinic,True,False,35.7348696,51.3284603,611,,False
+کلینیک پزشگان,,clinic,clinic,True,False,35.7347783,51.3276466,612,,False
+دکتر سپید,doctors,doctor,doctors,True,False,35.7721707,51.3746402,615,,False
+مطب دکتر حمیدرضا سمیعی,doctors,doctor,doctors,True,False,35.7405476,51.4674886,619,,False
+مرکز توانبخشی معلولان ذهنی آوای رضوان,clinic,clinic,clinic,True,False,35.6394519,51.4454012,620,,False
+کلینیک دندانپزشکی بهبود,clinic,clinic,clinic,True,False,35.7592498,51.4115221,621,,False
+درمانگاه خیریه حضرت علی‌اصغر,clinic,,clinic,True,False,35.613511,51.4527176,623,,False
+درمانگاه شهرداری منطقه ۱۰,clinic,clinic,clinic,True,False,35.6701984,51.3727813,624,,False
+مرکز تصویربرداری پزشکی تهران,clinic,,clinic,True,False,35.7195006,51.4056101,626,,False
+دکتر آذر محمدی | زیبایی,doctors,doctor,doctors,True,False,35.7942438,51.4365002,628,,False
+مرکز جراحی سعادت آباد,clinic,clinic,clinic,True,False,35.7828861,51.3774344,630,,False
+کلینیک هورسام,clinic,clinic,clinic,True,False,35.7714843,51.3574539,632,,False
+مطب دکتر مهدی احمدی احمدی، فوق تخصص جراحی پلاستیک و زیبایی,doctors,doctor,doctors,True,False,35.7520551,51.4107961,634,,False
+درمانگاه نبوی,clinic,clinic,clinic,True,False,35.6028701,51.4344949,635,,False
+پایگاه بهداشت ولی آباد بهشتی,clinic,clinic,clinic,True,False,35.5807898,51.4197847,636,,False
+دکتر فرشاد جعفری، فوق تخصص قلب کودکان,doctors,doctor,doctors,True,False,35.7746777,51.4097932,639,,False
+کلینیک کاردرمانی و گفتاردرمانی آریان,clinic,clinic,clinic,True,False,35.7749888,51.3615286,641,,False
+لیزر سلین,clinic,clinic,clinic,True,False,35.7866517,51.4356664,643,,False
+رادیولوژی و سونوگرافی کیهان,doctors,doctor,doctors,True,False,35.7301342,51.3791311,644,,False
+مرکز زیبایی دکتر شیدوش,clinic,clinic,clinic,True,False,35.781618,51.4490163,646,,False
+سمعک برتر,clinic,clinic,clinic,True,False,35.766951,51.4406803,647,,False
+مرکز شنوایی سنجی و فروش سمعک آلفا,clinic,clinic,clinic,True,False,35.7591169,51.4115882,648,,False
+کلینیک پوست و مو ماهور,clinic,clinic,clinic,True,False,35.8063828,51.456959,649,,False
+رادیولوژی دکتر صدری,doctors,doctor,doctors,True,False,35.745168,51.4507107,650,,False
+رادیولوژی و سونوگرافی ستارخان,doctors,doctor,doctors,True,False,35.7097293,51.3733673,651,,False
+آزمایشگاه میرداماد,,laboratory,laboratory,True,False,35.7596761,51.4458384,652,,False
+آزمایشگاه آرامش,,laboratory,laboratory,True,False,35.7826933,51.3742202,654,,False
+دکتر رضا خدادادی,doctors,doctor,doctors,True,False,35.7884939,51.4191711,655,,False
+مطب دکتر روحانی,doctors,doctor,doctors,True,False,35.7758069,51.3662419,658,,False
+کلینیک فیزیوتراپی بامداد سلامت,clinic,clinic,clinic,True,False,35.7273361,51.4079008,659,,False
+کلینیک مهر پویا (دکتر اسدالله امان الهی),clinic,,clinic,True,False,35.7264103,51.3225612,660,,False
+کلینیک مهر پویا (دکتر اسدالله امان الهی),clinic,clinic,clinic,True,False,35.7770192,51.3550218,661,,False
+دکتر حبیبه احمدی متخصص زنان,doctors,doctor,doctors,True,False,35.7813764,51.3712249,662,,False
+آزمایشگاه پاتوبیولوژی دکتر ویشکائی,,laboratory,laboratory,True,False,35.7320724,51.524702,663,,False
+آزمایشگاه چهر,,laboratory,laboratory,True,False,35.7426242,51.4466474,664,,False
+دکتر غزاله موسوی زاده,doctors,doctor,doctors,True,False,35.7572782,51.2894104,668,,False
+دکتر علی اصغر شیرازی,doctors,doctor,doctors,True,False,35.7287479,51.4164594,670,,False
+آزمایشگاه تشخیص طبی الوند,,laboratory,laboratory,True,False,35.5912628,51.4426384,673,,False
+آزمایشگاه پاتوبیولوژی پلاسما طب,,laboratory,laboratory,True,False,35.592617,51.4401512,674,,False
+آزمایشگاه پاتوبیولوژی امروز,,laboratory,laboratory,True,False,35.5907631,51.438282,675,,False
+آزمایشگاه حکمت,,laboratory,laboratory,True,False,35.6178643,51.4537853,676,,False
+آزمایشگاه زکریا رازی,,laboratory,laboratory,True,False,35.6002769,51.4384613,677,,False
+آزمایشگاه امامی اهری,,laboratory,laboratory,True,False,35.6641159,51.3988113,678,,False
+آزمایشگاه نیاوران,,laboratory,laboratory,True,False,35.8116747,51.4633353,679,,False
+آزمایشگاه تشخیص طبی دکتر فرحتاج,,laboratory,laboratory,True,False,35.5837517,51.4525452,684,,False
+آزمایشگاه شمیران نو,,laboratory,laboratory,True,False,35.748909,51.5023346,686,,False
+آزمایشگاه احسان,,laboratory,laboratory,True,False,35.7384338,51.558136,687,,False
+آزمایشگاه الیا,,laboratory,laboratory,True,False,35.7601395,51.4425507,689,,False
+آزمایشگاه ظفر,,laboratory,laboratory,True,False,35.7653323,51.4434054,690,,False
+رادیولوژی تات,,laboratory,laboratory,True,False,35.7388362,51.5314233,691,,False
+آزمایشگاه تشخیص پزشکی دکتر آقامحمدی,,laboratory,laboratory,True,False,35.6347359,51.3502237,696,,False
+آزمایشگاه شهران,,laboratory,laboratory,True,False,35.7580396,51.2899768,697,,False
+آزمایشگاه دیبا,,laboratory,laboratory,True,False,35.7707253,51.3042412,698,,False
+آزمایشگاه دکتر امامی,,laboratory,laboratory,True,False,35.6367811,51.411036,699,,False
+آزمایشگاه برنارد,,laboratory,laboratory,True,False,35.7248878,51.4187355,701,,False
+آزمایشگاه جلوه,,laboratory,laboratory,True,False,35.7349281,51.4997025,705,,False
+آزمایشگاه دکتر تقوی,,laboratory,laboratory,True,False,35.7415009,51.533287,706,,False
+آزمایشگاه دکتر حبیبی,,laboratory,laboratory,True,False,35.6973495,51.4154472,708,,False
+آزمایشگاه لوتوس,,laboratory,laboratory,True,False,35.7345734,51.3553772,709,,False
+آزمایشگاه داورپناه,,laboratory,laboratory,True,False,35.7029533,51.4130936,710,,False
+آزمایشگاه بیمارستان رسالت,,laboratory,laboratory,True,False,35.7421875,51.4489136,712,,False
+آزمایشگاه پزشکی ری,,laboratory,laboratory,True,False,35.596097,51.4392883,713,,False
+آزمایشگاه جشنواره,,laboratory,laboratory,True,False,35.7346649,51.5353622,717,,False
+آزمایشگاه فارابی,,laboratory,laboratory,True,False,35.7656441,51.4426422,720,,False
+آزمایشگاه لامارک,,laboratory,laboratory,True,False,35.7275124,51.4070663,721,,False
+آزمایشگاه کیمیا,,laboratory,laboratory,True,False,35.6701164,51.3793488,722,,False
+آزمایشگاه ویلسون,,laboratory,laboratory,True,False,35.6601143,51.4310837,723,,False
+آزمایشگاه کوروش,,laboratory,laboratory,True,False,35.8063052,51.430051,724,,False
+آزمایشگاه موسسه غرب,,laboratory,laboratory,True,False,35.76091,51.4002342,729,,False
+آزمایشگاه مهناز,,laboratory,laboratory,True,False,35.7323036,51.4324951,734,,False
+آزمایشگاه ستارخان,,laboratory,laboratory,True,False,35.7184906,51.3638649,735,,False
+کلینیک سلامت ملل متحد,clinic,clinic,clinic,True,False,35.8043752,51.4567557,737,,False
+آزمایشگاه ولی عصر,,laboratory,laboratory,True,False,35.6417618,51.3387337,738,,False
+آزمایشگاه پاتوبیولوژی خزانه,,laboratory,laboratory,True,False,35.6353836,51.4215279,739,,False
+آزمایشگاه دکتر عزیزپور,,laboratory,laboratory,True,False,35.6655693,51.4476128,740,,False
+آزمایشگاه مریم,,laboratory,laboratory,True,False,35.7689781,51.3783722,741,,False
+کلینیک زیبایی هستیا,clinic,clinic,clinic,True,False,35.7971755,51.446072,742,,False
+آزمایشگاه دکتر جلالی,,laboratory,laboratory,True,False,35.730175,51.3790703,749,,False
+آزمایشگاه شهرآرا,,laboratory,laboratory,True,False,35.7224388,51.3722115,750,,False
+آزمایشگاه پاتوبیولوژی دی,,laboratory,laboratory,True,False,35.6370468,51.4020844,751,,False
+آزمایشگاه بیمارستان جم,,laboratory,laboratory,True,False,35.7227821,51.4230309,753,,False
+آزمایشگاه سازمان انتقال خون,,laboratory,laboratory,True,False,35.7483864,51.375206,754,,False
+آزمایشگاه پرژن,,laboratory,laboratory,True,False,35.7440147,51.3281364,755,,False
+آزمایشگاه دولت,,laboratory,laboratory,True,False,35.7749138,51.4637718,763,,False
+آزمایشگاه نگین اختیاریه,,laboratory,laboratory,True,False,35.7882309,51.4670029,765,,False
+آزمایشگاه رسالت,,laboratory,laboratory,True,False,35.7383385,51.4771347,767,,False
+آزمایشگاه قانون,,laboratory,laboratory,True,False,35.736702,51.3195343,773,,False
+آزمایشگاه آریا,,laboratory,laboratory,True,False,35.752594,51.5310555,775,,False
+آزمایشگاه پاتوبیولوژی همت,,laboratory,laboratory,True,False,35.7483101,51.478199,776,,False
+آزمایشگاه کیهان,,laboratory,laboratory,True,False,35.712326,51.3671875,777,,False
+آزمایشگاه خادم,,laboratory,laboratory,True,False,35.7972794,51.4100609,779,,False
+آزمایشگاه پاتوبیولوژی شفق طب آزما,,laboratory,laboratory,True,False,35.63694,51.4056206,783,,False
+آزمایشگاه بازرگانان,,laboratory,laboratory,True,False,35.6520042,51.3405037,784,,False
+آزمایشگاه دکتر نیکوکار,,laboratory,laboratory,True,False,35.7680511,51.3268242,789,,False
+آزمایشگاه پاتوبیولوژی هما,,laboratory,laboratory,True,False,35.7599411,51.3247299,791,,False
+آزمایشگاه تشخیص طبی نیک,,laboratory,laboratory,True,False,35.7553711,51.4768562,797,,False
+آزمایشگاه فرجام,,laboratory,laboratory,True,False,35.7365532,51.5165291,798,,False
+آزمایشگاه ژنتیک پزشکی دکتر اکبری,,laboratory,laboratory,True,False,35.7063179,51.4246826,800,,False
+آزمایشگاه شفق,,laboratory,laboratory,True,False,35.725605,51.435585,805,,False
+آزمایشگاه افق,,laboratory,laboratory,True,False,35.7382317,51.5064163,806,,False
+آزمایشگاه نعمت آباد,,laboratory,laboratory,True,False,35.6283188,51.3558121,807,,False
+آزمایشگاه هدف,,laboratory,laboratory,True,False,35.7267841,51.3768334,810,,False
+آزمایشگاه دولت آباد,,laboratory,laboratory,True,False,35.6182747,51.4489594,814,,False
+آزمایشگاه جوانه,,laboratory,laboratory,True,False,35.6377335,51.3563538,819,,False
+آزمایشگاه شایان,,laboratory,laboratory,True,False,35.7439117,51.3035851,823,,False
+آزمایشگاه پارامیس,,laboratory,laboratory,True,False,35.753685,51.3663788,825,,False
+آزمایشگاه دکتر محمدی جوبنی,,laboratory,laboratory,True,False,35.632534,51.4175987,827,,False
+آزمایشگاه امگا,,laboratory,laboratory,True,False,35.7565689,51.3943939,828,,False
+آزمایشگاه جردن,,laboratory,laboratory,True,False,35.761261,51.4196243,829,,False
+آزمایشگاه ایثار,,laboratory,laboratory,True,False,35.7865753,51.3506737,830,,False
+آزمایشگاه پاتوبیولوژی مادر,,laboratory,laboratory,True,False,35.7371407,51.3763123,834,,False
+آزمایشگاه پاتوبیولوژی ملت,,laboratory,laboratory,True,False,35.7315979,51.1890755,835,,False
+آزمایشگاه آرژانتین,,laboratory,laboratory,True,False,35.7396584,51.4151573,836,,False
+آزمایشگاه سلام,,laboratory,laboratory,True,False,35.71101,51.377388,840,,False
+آزمایشگاه پارسیا,,laboratory,laboratory,True,False,35.6491127,51.3922997,842,,False
+آزمایشگاه افشار,,laboratory,laboratory,True,False,35.7368965,51.5556488,843,,False
+آزمایشگاه پاتریس,,laboratory,laboratory,True,False,35.7125435,51.3719177,844,,False
+آزمایشگاه کیانشهر,,laboratory,laboratory,True,False,35.6355858,51.4456863,845,,False
+آزمایشگاه ساحل,,laboratory,laboratory,True,False,35.7408714,51.5332756,846,,False
+آزمایشگاه ایرانا,,laboratory,laboratory,True,False,35.760006,51.3301239,848,,False
+آزمایشگاه محسن,,laboratory,laboratory,True,False,35.6814232,51.3851814,851,,False
+آزمایشگاه فیتاس,,laboratory,laboratory,True,False,35.708149,51.386158,855,,False
+آزمایشگاه آرتا,,laboratory,laboratory,True,False,35.7132988,51.3859406,856,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک پزشکی تهران لب,,laboratory,laboratory,True,False,35.7342494,51.4104611,857,,False
+آزمایشگاه بهمن طب,,laboratory,laboratory,True,False,35.7562828,51.3955803,859,,False
+آزمایشگاه تاو,,laboratory,laboratory,True,False,35.7705307,51.3723156,860,,False
+آزمایشگاه جاوید,,laboratory,laboratory,True,False,35.6818962,51.3963013,862,,False
+آزمایشگاه تجریش,,laboratory,laboratory,True,False,35.8062286,51.4257469,866,,False
+پژوهشگاه ملی مهندسی ژنتیک و زیست فن آوری و ژنتیک پزشکی,,laboratory,laboratory,True,False,35.7126045,51.3829536,869,,False
+آزمایشگاه بهین,,laboratory,laboratory,True,False,35.6350784,51.4916878,870,,False
+آزمایشگاه پند,,laboratory,laboratory,True,False,35.7432289,51.5318222,871,,False
+آزمایشگاه فرین,,laboratory,laboratory,True,False,35.7977791,51.4563637,873,,False
+آزمایشگاه حافظ,,laboratory,laboratory,True,False,35.6677003,51.3824708,875,,False
+آزمایشگاه فر دانش,,laboratory,laboratory,True,False,35.6525078,51.4929085,877,,False
+آزمایشگاه رایت,,laboratory,laboratory,True,False,35.6792755,51.4014091,878,,False
+آزمایشگاه برنا,,laboratory,laboratory,True,False,35.7766342,51.4865417,879,,False
+آزمایشگاه یکتا,,laboratory,laboratory,True,False,35.7070541,51.3835526,880,,False
+آزمایشگاه پزشکی آنالیز,,laboratory,laboratory,True,False,35.75951,51.3125687,881,,False
+آزمایشگاه امید بهشت,,laboratory,laboratory,True,False,35.7432938,51.5631409,882,,False
+آزمایشگاه جام جم,,laboratory,laboratory,True,False,35.7449608,51.4113426,884,,False
+آزمایشگاه تشخیص طبی روشان,,laboratory,laboratory,True,False,35.7395668,51.3039703,888,,False
+آزمایشگاه شیلا,,laboratory,laboratory,True,False,35.7688522,51.4762993,889,,False
+آزمایشگاه تشخیص طبی سامان,,laboratory,laboratory,True,False,35.7691231,51.4762611,894,,False
+آزمایشگاه میارناژن,,laboratory,laboratory,True,False,35.7449074,51.4114342,895,,False
+آزمایشگاه نیوان,,laboratory,laboratory,True,False,35.8001404,51.4902077,899,,False
+آزمایشگاه پالادیوم,,laboratory,laboratory,True,False,35.7691543,51.3545859,901,,False
+آزمایشگاه اکرم,,laboratory,laboratory,True,False,35.6603546,51.3769608,902,,False
+آزمایشگاه برتر,,laboratory,laboratory,True,False,35.6139641,51.4921608,903,,False
+آزمایشگاه مهسا,,laboratory,laboratory,True,False,35.636692,51.4102516,908,,False
+آزمایشگاه سروین,,laboratory,laboratory,True,False,35.7416267,51.5329742,910,,False
+آزمایشگاه رایان,,laboratory,laboratory,True,False,35.7580109,51.5314941,911,,False
+آزمایشگاه ویروس شناسی خاورمیانه,,laboratory,laboratory,True,False,35.7101974,51.4181137,912,,False
+آزمایشگاه تشخیص پزشکی سیمرغ,,laboratory,laboratory,True,False,35.7056002,51.3895575,914,,False
+آزمایشگاه نگین,,laboratory,laboratory,True,False,35.7710648,51.3747845,923,,False
+آزمایشگاه دکتر زینلی,,laboratory,laboratory,True,False,35.7218538,51.4105661,924,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک پزشکی میلاد,,laboratory,laboratory,True,False,35.7310181,51.5289612,927,,False
+آزمایشگاه کاوشگر تیسفون,,laboratory,laboratory,True,False,35.6287613,51.4980659,931,,False
+آزمایشگاه پاتوبیولوژی سعادت آباد,,laboratory,laboratory,True,False,35.7716904,51.3582191,933,,False
+آزمایشگاه دکتر جعفری,,laboratory,laboratory,True,False,35.6469345,51.3370972,941,,False
+آزمایشگاه وردآورد,,laboratory,laboratory,True,False,35.7392448,51.1355314,943,,False
+آزمایشگاه تشخیص طبی و ژنتیک انستیتو پاستور,,laboratory,laboratory,True,False,35.692173,51.3957291,944,,False
+آزمایشگاه لفلر,,laboratory,laboratory,True,False,35.6769981,51.4084892,945,,False
+آزمایشگاه سانترال,,laboratory,laboratory,True,False,35.6582565,51.375473,947,,False
+کلینیک نگین آتریسا,clinic,,clinic,True,False,35.7544162,51.3334411,950,,False
+آزمایشگاه مندل,,laboratory,laboratory,True,False,35.7472545,51.4109743,951,,False
+آزمایشگاه جهان,,laboratory,laboratory,True,False,35.7291374,51.3990211,952,,False
+آزمایشگاه فروردین نوین,,laboratory,laboratory,True,False,35.708271,51.3837929,953,,False
+آزمایشگاه روناش,,laboratory,laboratory,True,False,35.7083269,51.3837437,954,,False
+آزمایشگاه نامدار,,laboratory,laboratory,True,False,35.7235451,51.4015732,956,,False
+آزمایشگاه پاتوبیولوژی سام,,laboratory,laboratory,True,False,35.735733,51.3773117,957,,False
+آزمایشگاه شافی,,laboratory,laboratory,True,False,35.7221336,51.3604622,958,,False
+آزمایشگاه ظریفی,,laboratory,laboratory,True,False,35.7708359,51.365345,959,,False
+آزمایشگاه سپند,,laboratory,laboratory,True,False,35.8020401,51.4786377,963,,False
+آزمایشگاه نگاه,,laboratory,laboratory,True,False,35.7521858,51.4473953,966,,False
+آزمایشگاه آتبین,,laboratory,laboratory,True,False,35.7240791,51.4118423,967,,False
+آزمایشگاه روشن آزما,,laboratory,laboratory,True,False,35.7377205,51.4152031,969,,False
+آزمایشگاه سنا,,laboratory,laboratory,True,False,35.7457123,51.4047928,970,,False
+آزمایشگاه درمانگاه خورشید,,laboratory,laboratory,True,False,35.7444308,51.4605293,972,,False
+آزمایشگاه کاوه,,laboratory,laboratory,True,False,35.7800636,51.4492302,974,,False
+آزمایشگاه رها,,laboratory,laboratory,True,False,35.7406998,51.5326996,976,,False
+آزمایشگاه بهار شرق,,laboratory,laboratory,True,False,35.7417221,51.5463638,977,,False
+آزمایشگاه فضل,,laboratory,laboratory,True,False,35.7355461,51.526638,978,,False
+آزمایشگاه نگار,,laboratory,laboratory,True,False,35.7702675,51.4401207,979,,False
+آزمایشگاه روشا,,laboratory,laboratory,True,False,35.7916145,51.487793,980,,False
+آزمایشگاه دلتا,,laboratory,laboratory,True,False,35.8108177,51.4688301,982,,False
+آزمایشگاه خانی آباد,,laboratory,laboratory,True,False,35.6258278,51.3916664,983,,False
+آزمایشگاه دارآباد,,laboratory,laboratory,True,False,35.8182106,51.4918823,984,,False
+آزمایشگاه صوفیا,,laboratory,laboratory,True,False,35.7759323,51.4171486,987,,False
+آزمایشگاه صفاییه,,laboratory,laboratory,True,False,35.6095461,51.4464999,988,,False
+ام.آر.آی ولیعصر,clinic,,clinic,True,False,35.7843651,51.4405189,990,,False
+آزمایشگاه مرجع بهداشت,,laboratory,laboratory,True,False,35.6814156,51.4118614,992,,False
+درمانگاه شبانه روزی دکتر اطمینان,clinic,clinic,clinic,True,False,35.638652,51.4108551,995,,False
+ساختمان پزشکان ستارخان,clinic,clinic,clinic,True,False,35.7134643,51.3684735,997,,False
+دکتر محمد صادق عالم رجبی,doctors,doctor,doctors,True,False,35.7802465,51.3354667,998,,False
+دکتر عاطفه فرامرزی,doctors,doctor,doctors,True,False,35.8012584,51.4598896,1002,,False
+مرکز سلامت جامع شهری بعثت,clinic,clinic,clinic,True,False,35.6492914,51.4299076,1006,,False
+آزمایشگاه ظفر آریا,,laboratory,laboratory,True,False,35.7682953,51.4176483,1007,,False
+مطب دکتر تکتم کیاماری,doctors,doctor,doctors,True,False,35.7440522,51.5342515,1008,,False
+آزمایشگاه کاخال,,laboratory,laboratory,True,False,35.780117,51.4605026,1009,,False
+دکتر قاسم اسحاقی,doctors,doctor,doctors,True,False,35.7559971,51.4108728,1010,,False
+مجتمع پزشکی صدر,doctors,,doctors,True,False,35.7864287,51.4476054,1011,,False
+دکتر نازنین علوی,clinic,clinic,clinic,True,False,35.7734565,51.3800705,1012,,False
+کلینیک حنجره دکتر احمدی,doctors,doctor,doctors,True,False,35.7173821,51.3637635,1013,,False
+اورژانس اجتماعي تهران شميرانات,hospital,hospital,hospital,True,True,35.7632471,51.4070116,1014,,False
+کلینیک روانشناسی روان آرام,clinic,clinic,clinic,True,False,35.7601621,51.4003867,1015,,False
+مرکز مشاوره روانشناسی دکتر علیرضا چیره نژاد,clinic,,clinic,True,False,35.64736,51.4713845,1017,,False
+کلینیک دندانپزشکی لبخند مشکوه,clinic,clinic,clinic,True,False,35.7298087,51.3426693,1018,,False
+کلینیک آفا,clinic,,clinic,True,False,35.7713677,51.376164,1019,,False
+کلینیک ارتوپدی طب نادر,clinic,clinic,clinic,True,False,35.7707022,51.3744368,1023,,False
+کلنیک نسخه,clinic,,clinic,True,False,35.7567496,51.3959809,1024,,False
+کلینیک فیزیوتراپی آرکا,clinic,physiotherapist,clinic,True,False,35.789427,51.37461,1025,,False
+کلینیک زیبایی فلورا,clinic,clinic,clinic,True,False,35.7680269,51.3315467,1027,,False
+مطب خانم دکتر سمیه حجازی نیا,doctors,doctor,doctors,True,False,35.7664604,51.4413127,1029,,False
+آزمایشگاه فروزنده شاملو,,laboratory,laboratory,True,False,35.7710953,51.3669662,1031,,False
+مطب دکتر نرگس سروش,doctors,,doctors,True,False,35.7810588,51.3703886,1032,,False
+مطب زیبایی دکتر اسفندیارجلیل زاده,doctors,doctor,doctors,True,False,35.7866128,51.4241838,1033,,False
+درمانگاه تخصصی داخلی ظفرآریا,clinic,clinic,clinic,True,False,35.7683265,51.4177611,1034,,False
+نگار سنتر;مجموعه صنعتی آذرپترو,clinic,clinic,clinic,True,False,35.7826323,51.3753217,1036,,False
+ساختمان یاس دکتر بنفشه شاه نظری,doctors,,doctors,True,False,35.7407171,51.4103535,1037,,False
+کلینیک باربد,doctors,doctor,doctors,True,False,35.7998358,51.4493942,1038,,False
+مطب دکتر نفیسه جوادی,doctors,doctor,doctors,True,False,35.7801187,51.4498545,1039,,False
+کلینیک زیبایی دکتر صلح جو,clinic,clinic,clinic,True,False,35.6372836,51.4109449,1041,,False
+آزمایشگاه پاتوبیولوژی آسا,,laboratory,laboratory,True,False,35.7213812,51.3890529,1042,,False
+کلنیک آلرژی و ایمونولوژی خورشید,clinic,clinic,clinic,True,False,35.7444305,51.4605811,1043,,False
+کلینیک زیبایی سوین,,clinic,clinic,True,False,35.7809391,51.3529271,1046,,False
+انجمن جراحان پستان ایران,doctors,doctor,doctors,True,False,35.8069887,51.4320322,1047,,False
+دکتر مهدی اوصیا,doctors,doctor,doctors,True,False,35.8078085,51.4055771,1049,,False
+دکتر شاهرخ خوش سیرت,doctors,doctor,doctors,True,False,35.7592725,51.4115024,1050,,False
+دکتر نسرین راستا,doctors,doctor,doctors,True,False,35.7716943,51.3781206,1051,,False
+دکتر هلن جوانمرد,doctors,doctor,doctors,True,False,35.7725671,51.3585453,1052,,False
+دکتر محسن اسدی,doctors,doctor,doctors,True,False,35.7830113,51.4475791,1055,,False
+دکتر سیده معصومه قاضی میرسعید,doctors,doctor,doctors,True,False,35.7566191,51.3961023,1057,,False
+دکتر معصومه صابریان,doctors,doctor,doctors,True,False,35.7859395,51.4225029,1059,,False
+دکتر افسانه ثنایی,doctors,doctor,doctors,True,False,35.7602727,51.4153001,1060,,False
+دکتر حمیدرضا فتحی,doctors,doctor,doctors,True,False,35.7626777,51.41985,1061,,False
+دکتر رضا شیروانی بختیاری,doctors,doctor,doctors,True,False,35.77716,51.4243664,1062,,False
+دکتر شاهین جمیلی,doctors,doctor,doctors,True,False,35.7540411,51.4060117,1063,,False
+دکتر مهرنوش امیری سیاوشانی,doctors,doctor,doctors,True,False,35.7989635,51.473168,1064,,False
+دکتر پژمان سرشارزاده,doctors,doctor,doctors,True,False,35.7488803,51.4095208,1065,,False
+دکتر امیر سعید صادقی,doctors,doctor,doctors,True,False,35.7759503,51.3766156,1067,,False
+دکتر محمدرضا ترحمی,doctors,doctor,doctors,True,False,35.7757547,51.366164,1068,,False
+دکتر سروش کانی,doctors,doctor,doctors,True,False,35.8000411,51.4114491,1069,,False
+دکتر فتانه ضیایی,doctors,doctor,doctors,True,False,35.775578,51.3641563,1070,,False
+دکتر نوید توفیقی راد,doctors,doctor,doctors,True,False,35.8048044,51.4025868,1071,,False
+دکتر مهدی آریانا,doctors,doctor,doctors,True,False,35.7811867,51.3707093,1073,,False
+دکتر پریسا اشتر نخعی,doctors,doctor,doctors,True,False,35.7631656,51.4439405,1076,,False
+دکتر بهزاد فرخی,doctors,doctor,doctors,True,False,35.7600716,51.4085952,1077,,False
+کلینیک نیلفروش‌زاده,clinic,clinic,clinic,True,False,35.7613516,51.418546,1078,,False
+دکتر لیلا تدین,doctors,doctor,doctors,True,False,35.7549242,51.4767471,1079,,False
+کلینیک کاردرمانی و گفتاردرمانی حامی,clinic,clinic,clinic,True,False,35.7623864,51.4621274,1080,,False
+دکتر سعید ظفرمند,doctors,doctor,doctors,True,False,35.7249898,51.3829194,1081,,False
+دکتر پرویز محمدی,clinic,clinic,clinic,True,False,35.711643,51.3843124,1082,,False
+کلینیک زیبایی آنا,clinic,clinic,clinic,True,False,35.7616514,51.3360319,1083,,False
+دکتر پرویز محمدی,hospital,hospital,hospital,True,True,35.7658532,51.3806161,1084,,False
+دکتر مریم تراب پرهیز,doctors,doctor,doctors,True,False,35.7468376,51.4130691,1085,,False
+دکتر لیلا سلطانی,doctors,doctor,doctors,True,False,35.7382973,51.3267518,1086,,False
+دکتر الهه ثناگو,doctors,doctor,doctors,True,False,35.7538591,51.4780755,1087,,False
+دکتر مهدی مقتدایی,doctors,doctor,doctors,True,False,35.7558955,51.4109566,1088,,False
+دکتر شاهین بهجو,doctors,doctor,doctors,True,False,35.7776437,51.358396,1090,,False
+دکتر علیرضا فروتن,doctors,doctor,doctors,True,False,35.7588771,51.4128496,1091,,False
+دکتر مهران زمان زاده,doctors,doctor,doctors,True,False,35.7459405,51.4113934,1092,,False
+دکتر رفیع پرنیا,doctors,doctor,doctors,True,False,35.7627594,51.4193014,1093,,False
+دکتر ناصر مهربان,doctors,doctor,doctors,True,False,35.7800469,51.4496672,1098,,False
+دکتر میترا بهمن پور,doctors,doctor,doctors,True,False,35.8108974,51.4043194,1100,,False
+گروه روانشناسی و روانپزشکی مهربد,doctors,doctor,doctors,True,False,35.7982584,51.4141001,1102,,False
+منصور ابوالقاسمیان,doctors,doctor,doctors,True,False,35.7614728,51.4106453,1105,,False
+دکتر شراره صفاپور,doctors,doctor,doctors,True,False,35.7715447,51.4610196,1108,,False
+دکتر کامران جزایری,doctors,doctor,doctors,True,False,35.7866474,51.424108,1110,,False
+دکتر کامران جزایری,doctors,doctor,doctors,True,False,35.7866365,51.4240839,1111,,False
+کلینیک روانشناسی روانمهر,clinic,clinic,clinic,True,False,35.7821579,51.4260719,1112,,False
+دکتر مریم چمنی,doctors,doctor,doctors,True,False,35.7346505,51.3278635,1113,,False
+دکتر علیرضا بخشایی کیا,doctors,doctor,doctors,True,False,35.8102489,51.4111424,1115,,False
+دکتر ساره حیدری,doctors,doctor,doctors,True,False,35.7757292,51.3764657,1118,,False
+دکتر پوپک یحیوی,doctors,doctor,doctors,True,False,35.7232268,51.4240973,1119,,False
+ناهید نفیسی,doctors,doctor,doctors,True,False,35.7735522,51.4623683,1120,,False
+دکتر زهرا خلج,doctors,doctor,doctors,True,False,35.7733822,51.3801145,1121,,False
+دکتر ربابه غیبی,doctors,doctor,doctors,True,False,35.770611,51.3955606,1122,,False
+دکتر حامد بصیرزاده,doctors,doctor,doctors,True,False,35.724615,51.4086941,1123,,False
+دکتر مسعود پورشاهی,clinic,clinic,clinic,True,False,35.7866914,51.4241058,1125,,False
+دکتر محمدرضا آریانی,doctors,doctor,doctors,True,False,35.7232316,51.4233418,1126,,False
+دکتر سوره علاف اکبری,doctors,doctor,doctors,True,False,35.7321811,51.3787267,1127,,False
+دکتر حبیب رشادی,doctors,doctor,doctors,True,False,35.7673341,51.3305729,1128,,False
+دکتر طاهره نوروززاده,clinic,clinic,clinic,True,False,35.771109,51.3835583,1129,,False
+دکتر محمدرضا آخوندی نسب,doctors,doctor,doctors,True,False,35.7764255,51.420328,1134,,False
+دکتر غلامرضا بیاضیان,doctors,doctor,doctors,True,False,35.7606471,51.4118577,1135,,False
+دکتر منصور هادیلو,doctors,doctor,doctors,True,False,35.7595602,51.442469,1138,,False
+مرکز ناباروری بهاران,doctors,doctor,doctors,True,False,35.7303368,51.4091053,1139,,False
+دکتر سعید انصاری,doctors,doctor,doctors,True,False,35.7986177,51.4137938,1141,,False
+دکتر علیرضا قربانی شریف,doctors,doctor,doctors,True,False,35.7475431,51.4106622,1142,,False
+دکتر محمدرضا مقیمی,doctors,doctor,doctors,True,False,35.5921617,51.4361202,1143,,False
+دکتر زهرا امام,doctors,doctor,doctors,True,False,35.771784,51.357839,1144,,False
+دکتر سامان ستوده نیا,doctors,doctor,doctors,True,False,35.7470975,51.4112074,1148,,False
+دکتر سارا لطفی,doctors,doctor,doctors,True,False,35.7664664,51.4566574,1149,,False
+دکتر بابک نیکومرام,doctors,doctor,doctors,True,False,35.7592226,51.411481,1151,,False
+دکتر فریده کردلو,doctors,doctor,doctors,True,False,35.7421152,51.4491838,1154,,False
+دکتر آرش میرمحمد صادقی,doctors,doctor,doctors,True,False,35.7570996,51.4485859,1157,,False
+دکتر نگار حدادی,doctors,doctor,doctors,True,False,35.7402977,51.5320752,1158,,False
+دکتر رزیتا جعفری,doctors,doctor,doctors,True,False,35.7988856,51.473317,1159,,False
+دکتر علیرضا جباری,doctors,doctor,doctors,True,False,35.7982512,51.4140695,1161,,False
+دکتر آزاده مکری,doctors,doctor,doctors,True,False,35.7713909,51.3671611,1162,,False
+دکتر فرشته جلالپور,doctors,doctor,doctors,True,False,35.7688223,51.4765296,1163,,False
+دکتر یاسمین افسری,doctors,doctor,doctors,True,False,35.7665564,51.4430946,1164,,False
+دکتر کاوه قرنی زاده,doctors,doctor,doctors,True,False,35.7972686,51.4079153,1165,,False
+دکتر احمد طاهری,doctors,doctor,doctors,True,False,35.7824664,51.3801728,1166,,False
+دکتر ندا هادی,doctors,doctor,doctors,True,False,35.7419752,51.448051,1168,,False
+دکتر زهرا پرتو,doctors,doctor,doctors,True,False,35.7678779,51.3378103,1169,,False
+دکتر بهناز عطار شاکری,doctors,doctor,doctors,True,False,35.7565681,51.3946728,1170,,False
+دکتر داوود نجفی توانا,doctors,doctor,doctors,True,False,35.7637134,51.4440995,1171,,False
+مطب پوست و مو دکتر امیر سلیمانی,doctors,doctor,doctors,True,False,35.7589602,51.413653,1177,,False
+دکتر داریوش محمدی,doctors,doctor,doctors,True,False,35.7594327,51.3031274,1178,,False
+دکتر لیلا صدقی,doctors,doctor,doctors,True,False,35.7723909,51.358644,1180,,False
+دکتر مجید محمودی مظفر,doctors,doctor,doctors,True,False,35.7713203,51.3679853,1182,,False
+دکتر مرتضی جعفری,doctors,doctor,doctors,True,False,35.7664259,51.4414315,1183,,False
+دکتر بیتا زلالی,doctors,doctor,doctors,True,False,35.7757116,51.4644084,1184,,False
+دکتر محمدرضا مقدم نیا,doctors,doctor,doctors,True,False,35.7545253,51.4158207,1185,,False
+دکتر کیانا کیا,doctors,doctor,doctors,True,False,35.7561611,51.3929074,1186,,False
+دکتر ندا مهرعلیزاده,doctors,doctor,doctors,True,False,35.7662022,51.4376618,1188,,False
+دکتر مریم کرمعلی,doctors,doctor,doctors,True,False,35.7459221,51.4113817,1189,,False
+دکتر نگین حدادی,doctors,doctor,doctors,True,False,35.7548048,51.3311013,1192,,False
+دکتر جهانگیر قربانی,doctors,doctor,doctors,True,False,35.8025187,51.4573823,1193,,False
+دکتر احمد دانشی,doctors,doctor,doctors,True,False,35.737584,51.4149122,1194,,False
+دکتر حمید ارونقی,doctors,doctor,doctors,True,False,35.7204177,51.3578702,1195,,False
+دکتر زهرا ستوده,doctors,doctor,doctors,True,False,35.6192958,51.4558229,1197,,False
+دکتر ابراهیم شهسواری,doctors,doctor,doctors,True,False,35.7584509,51.4118716,1198,,False
+دکتر سامان خرمی نژاد,doctors,doctor,doctors,True,False,35.7934275,51.4516051,1200,,False
+دکتر علی الستی,doctors,doctor,doctors,True,False,35.7008282,51.3810056,1201,,False
+دکتر علی فرجی,doctors,doctor,doctors,True,False,35.7806898,51.4614351,1202,,False
+دکتر فاطمه چراغی,doctors,doctor,doctors,True,False,35.7826851,51.3739939,1204,,False
+کلینیک هسته ای سارا,clinic,clinic,clinic,True,False,35.7236986,51.4140598,1207,,False
+دکتر شراره صدری نائینی,doctors,doctor,doctors,True,False,35.7632627,51.3367166,1209,,False
+دکتر سپیده فاضلی,doctors,doctor,doctors,True,False,35.7814904,51.3719073,1210,,False
+نادره شایگان,doctors,doctor,doctors,True,False,35.7403204,51.4655086,1213,,False
+دکتر سعیده شاه علی,doctors,doctor,doctors,True,False,35.7999771,51.4904124,1218,,False
+دکتر خسرو حق شناس,doctors,doctor,doctors,True,False,35.7112433,51.4026729,1221,,False
+دکتر بهنام نصیری,doctors,doctor,doctors,True,False,35.7587412,51.4140374,1224,,False
+دکتر فرزانه درویش زاده,doctors,doctor,doctors,True,False,35.7662628,51.4423158,1225,,False
+دکتر فاطمه سیدی,doctors,doctor,doctors,True,False,35.740743,51.5348018,1226,,False
+دکتر ویدا ناجی,doctors,doctor,doctors,True,False,35.7177284,51.4195633,1227,,False
+دکتر اعظم صلاتی,doctors,doctor,doctors,True,False,35.7077455,51.3874122,1228,,False
+کلینیک فیزیوتراپی هدف,doctors,doctor,doctors,True,False,35.7543222,51.3963033,1229,,False
+دکتر ابوالفضل رحیمی,doctors,doctor,doctors,True,False,35.7537254,51.4104586,1232,,False
+دکتر لیلا آذرنوش,doctors,doctor,doctors,True,False,35.7806718,51.4615691,1233,,False
+دکتر جاوید ظفری,doctors,doctor,doctors,True,False,35.7995779,51.4110744,1234,,False
+دکتر ناصر مهاجرانی,doctors,doctor,doctors,True,False,35.7412907,51.409701,1235,,False
+دکتر امیر مصدق,doctors,doctor,doctors,True,False,35.775779,51.4639724,1236,,False
+دکتر امیر مصدق,doctors,doctor,doctors,True,False,35.7657629,51.4352474,1238,,False
+دکتر علی نبی پور,doctors,doctor,doctors,True,False,35.7659915,51.4428546,1240,,False
+آزمایشگاه آلما,,laboratory,laboratory,True,False,35.6393051,51.4109459,1241,,False
+آزمایشگاه شما,,laboratory,laboratory,True,False,35.6553764,51.4909439,1244,,False
+آزمایشگاه ویان,,laboratory,laboratory,True,False,35.734745,51.4330368,1245,,False
+آزمایشگاه الماس,,laboratory,laboratory,True,False,35.6192741,51.4557953,1246,,False
+دکتر ایمان روغنی,doctors,doctor,doctors,True,False,35.7605642,51.4104207,1247,,False
+کلینیک میلانی,clinic,,clinic,True,False,35.7589142,51.412746,1248,,False
+دکتر کامبیز ایزدپناه,doctors,doctor,doctors,True,False,35.7814446,51.3712655,1249,,False
+مرکز روان شناسی و مشاوره رضوان,clinic,psychotherapist,clinic,True,False,35.694583,51.3792013,1251,,False
+طب کار پرانا,clinic,clinic,clinic,True,False,35.7261213,51.4190983,1252,,False
+آزمایشگاه آرتمیس,,laboratory,laboratory,True,False,35.7688538,51.3278996,1253,,False
+کلینیک زیبایی سو,clinic,clinic,clinic,True,False,35.7461678,51.4051181,1254,,False
+آزمایشگاه پاتوبیولوژی الهام,,laboratory,laboratory,True,False,35.7265714,51.3232376,1255,,False
+کلینیک ژنتیک دکتر فرهود,clinic,clinic,clinic,True,False,35.7109826,51.4059716,1257,,False
+مرکز لیزر و زیبایی مرجان,clinic,clinic,clinic,True,False,35.7098656,51.408103,1259,,False
+دکتر صالحیان متخصص تغذیه ورزشی,doctors,,doctors,True,False,35.7803516,51.3805461,1260,,False
+کلینیک دکتر رنگیانی,clinic,clinic,clinic,True,False,35.75675,51.3974779,1261,,False
+مطب دکتر شبنم رفیع زاده,doctors,doctor,doctors,True,False,35.7358327,51.3391006,1263,,False
+دکتر زهراسادات سعادت مندی,doctors,doctor,doctors,True,False,35.7724332,51.4212334,1265,,False
+آزمایشگاه ویروس شناسی امیرآباد,,laboratory,laboratory,True,False,35.7212834,51.3896171,1267,,False
+دکتر مهری مهراد,clinic,clinic,clinic,True,False,35.7989071,51.4142679,1268,,False
+آزمایشگاه نگین پویا,,laboratory,laboratory,True,False,35.7441177,51.411026,1270,,False
+Parshayan Co,,laboratory,laboratory,True,False,35.7721816,51.4223506,1274,,False
+مرکز سلامت و زیبایی اپال ول بی,clinic,clinic,clinic,True,False,35.7769554,51.3512965,1277,,False
+دکتر محمدجواد امیدمعظم,doctors,doctor,doctors,True,False,35.7970716,51.4461269,1279,,False
+دکتر فرزاد پرویزیان,doctors,doctor,doctors,True,False,35.7681768,51.4131155,1280,,False
+مرکز فوق تخصصی چشم پزشکی بصیر,clinic,clinic,clinic,True,False,35.7115384,51.3843384,1283,,False
+مطب دکتر ماندانا احمدی,doctors,doctor,doctors,True,False,35.7701819,51.4224168,1287,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک دکتر معین الدین صفوی,,laboratory,laboratory,True,False,35.7238954,51.4080976,1291,,False
+درمانگاه اصحاب الحسین,clinic,clinic,clinic,True,False,35.6700134,51.4026635,1293,,False
+گروه مشاورین هانا,clinic,psychotherapist,clinic,True,False,35.7989167,51.4141866,1294,,False
+دکتر فرهود گوراوانچی,doctors,doctor,doctors,True,False,35.7861368,51.4266754,1295,,False
+sheen center,doctors,doctor,doctors,True,False,35.7717054,51.3782523,1298,,False
+درمانگاه شبانه‌روزی سینوهه,clinic,clinic,clinic,True,False,35.6350148,51.3872677,1301,,False
+مطب دکتر لیلا پیرزاده,doctors,doctor,doctors,True,False,35.755892,51.410889,1303,,False
+کلینیک روانشناسی روان رشد,,clinic,clinic,True,False,35.7269921,51.5290396,1309,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک غدیرخم (رهسا),,laboratory,laboratory,True,False,35.7570563,51.4577727,1310,,False
+دکتر مرتضی ترابی متخصص طب سوزنی و طب سنتی,doctors,doctor,doctors,True,False,35.740648,51.4930341,1311,,False
+مرکز تصویربرداری آرینا,doctors,doctor,doctors,True,False,35.7553542,51.4539599,1312,,False
+دکتر محمدرضا مبینی,doctors,,doctors,True,False,35.7668594,51.4408059,1313,,False
+کلینیک پوست و مو و زیبایی آذین,clinic,,clinic,True,False,35.7420685,51.4108877,1317,,False
+مرکز لیزر رزت | Rozet clinic,clinic,clinic,clinic,True,False,35.7341584,51.354348,1319,,False
+کلینیک پوست و زیبایی آرتین,clinic,clinic,clinic,True,False,35.7227458,51.4092399,1320,,False
+فیزیوتراپی ثمربخش,clinic,physiotherapist,clinic,True,False,35.6403631,51.4114426,1322,,False
+چشم پزشکی خیریه امیرالمومنین,clinic,clinic,clinic,True,False,35.6521416,51.4413511,1327,,False
+خانه و سلامت ارج شوش,clinic,clinic,clinic,True,False,35.6576604,51.4406105,1328,,False
+ارتوپدی فنی پایارایستا,doctors,doctor,doctors,True,False,35.7873005,51.441408,1330,,False
+موسسه رادیولوژی و سونوگرافی پرتوی مهر,doctors,doctor,doctors,True,False,35.7520729,51.4109814,1332,,False
+آزمایشگاه دنا,,laboratory,laboratory,True,False,35.750127,51.4110462,1334,,False
+مطب دکتر علی صادقی,doctors,doctor,doctors,True,False,35.7341625,51.4137556,1335,,False
+کلینیک دکتر فروغ (مرکز جامع طب فیزیکی و توانبخشی),clinic,clinic,clinic,True,False,35.7101117,51.3772662,1336,,False
+کلینیک زیبایی آوابیوتی,doctors,doctor,doctors,True,False,35.7664406,51.4566011,1337,,False
+رادیولوژی و سونوگرافی اطلس,doctors,doctor,doctors,True,False,35.6187302,51.45579,1343,,False
+دکتر علیرضا شفیعی,doctors,doctor,doctors,True,False,35.801378,51.459888,1347,,False
+مرکز زیبایی فلور,clinic,clinic,clinic,True,False,35.8070789,51.4264203,1348,,False
+دکتر یسری جهانگیری,doctors,doctor,doctors,True,False,35.7085026,51.3851077,1349,,False
+سونوگرافی دکتر هدایی (مرکز تصویربرداری جردن),doctors,doctor,doctors,True,False,35.7681188,51.4196969,1350,,False
+دکتر وحیدرضا حکمتی,doctors,doctor,doctors,True,False,35.759792,51.4586685,1352,,False
+مطب زیبایی شاین,clinic,clinic,clinic,True,False,35.8059376,51.4247256,1353,,False
+جراح و متخصص گوش حلق و بینی دکتر جابر قرشی,doctors,doctor,doctors,True,False,35.7469315,51.4495234,1354,,False
+کلینیک ارتوپدی  دکتر کورش فاتح,clinic,clinic,clinic,True,False,35.7270876,51.3761822,1356,,False
+دکتر نرگس مهرابی,doctors,doctor,doctors,True,False,35.5942772,51.4428656,1358,,False
+دکتر مسیح کاویان,doctors,doctor,doctors,True,False,35.8013908,51.4180439,1360,,False
+مطب پوست و مو و زیبایی آیدا,clinic,clinic,clinic,True,False,35.7341898,51.3572127,1367,,False
+دکتر بابک رجبلو / مطب دکتر لو,doctors,doctor,doctors,True,False,35.7670076,51.4253818,1370,,False
+کلینیک زیبایی زیباچه,clinic,clinic,clinic,True,False,35.7598399,51.3300877,1371,,False
+دکترعبدیزدانی,doctors,doctor,doctors,True,False,35.7973363,51.4109188,1372,,False
+دکترسپیده اسدی,doctors,doctor,doctors,True,False,35.7973526,51.4109207,1373,,False
+دکتر آنا آوامهر,doctors,doctor,doctors,True,False,35.8074144,51.4627997,1374,,False
+انستیتو پوست مهسا مولایی (شماره ثبت 53416),clinic,clinic,clinic,True,False,35.7612784,51.4038224,1375,,False
+دکتر شهاب آفرینگاه,clinic,clinic,clinic,True,False,35.8013572,51.4599285,1376,,False
+مطب دکتر انارکی,doctors,,doctors,True,False,35.7691554,51.3625149,1377,,False
+دکتر حبیب سهرابی (جراح زیبایی بینی),doctors,doctor,doctors,True,False,35.7601956,51.415476,1378,,False
+کلینیک تخصصی پوست و مو هلیا,clinic,clinic,clinic,True,False,35.8049776,51.464736,1379,,False
+مرکز خدمات بین الملل روانشناسی و لکنت زبان اسکیلا,clinic,clinic,clinic,True,False,35.7631062,51.4439642,1380,,False
+دکتر کره ئی,clinic,clinic,clinic,True,False,35.7619733,51.4693948,1381,,False
+مطب دکتر فاطمه نعمت اللهی,doctors,doctor,doctors,True,False,35.7246433,51.4355273,1382,,False
+کلینیک باروری و درمان های پیشرفته ناباروری سارا,clinic,clinic,clinic,True,False,35.7056796,51.3900343,1384,,False
+مطب دكتر سعيد انوری,doctors,doctor,doctors,True,False,35.7636849,51.4435643,1386,,False
+دکتر سارا جعفری محمدی,doctors,doctor,doctors,True,False,35.7413937,51.4092315,1391,,False
+دکتر علی امینی اعصاب وروان,doctors,doctor,doctors,True,False,35.8012923,51.4169613,1392,,False
+دکتر فاطمه زارعین متخصص اعصاب و روان,doctors,doctor,doctors,True,False,35.7714131,51.3554907,1394,,False
+مطب دکتر زهرا ترشیزی,doctors,doctor,doctors,True,False,35.7681089,51.4119208,1398,,False
+Savagenome Genetic Clinic and Laboratory,,laboratory,laboratory,True,False,35.7456379,51.4121223,1403,,False
+مطب پوست و زیبایی دکتر حدیث مهرابی,clinic,clinic,clinic,True,False,35.7532391,51.5306493,1405,,False
+کلینیک زیبایی ستایش,clinic,clinic,clinic,True,False,35.7630617,51.33772,1410,,False
+دکتر سیف الدین زاهدی,doctors,,doctors,True,False,35.6572647,51.3680733,1411,,False
+رادیولوژی دکتر یاسر صافی,doctors,doctor,doctors,True,False,35.7563958,51.3936348,1412,,False
+درمانگاه سجاد,clinic,,clinic,True,False,35.6172386,51.4942288,1414,,False
+مطب رز دکتر رضوان موسوی,clinic,clinic,clinic,True,False,35.6314194,51.3685068,1416,,False
+کلینیک درد آزا سلامت,clinic,clinic,clinic,True,False,35.7703992,51.3626893,1417,,False
+آزمایشگاه دنا,,laboratory,laboratory,True,False,35.750112,51.4110658,1418,,False
+مطب دکتر بهزاد امیری,clinic,clinic,clinic,True,False,35.7056919,51.3894437,1424,,False
+کلینیک دکتر فروغ (مرکز جامع طب فیزیکی و توانبخشی),clinic,clinic,clinic,True,False,35.7100623,51.377259,1425,,False
+کلینیک زیبایی ملورا,clinic,clinic,clinic,True,False,35.8001922,51.4701995,1426,,False
+مرکز پرستاری کیانمهر,clinic,clinic,clinic,True,False,35.7093113,51.3738276,1427,,False
+کلینیک مشاوره آنید,clinic,clinic,clinic,True,False,35.7717804,51.378205,1430,,False
+دکتر پدرام اطمینانی,doctors,doctor,doctors,True,False,35.8018591,51.4538271,1431,,False
+unnamed,clinic,,clinic,True,False,35.747377,51.4108393,1432,,False
+کلینیک پوست، مو و زیبایی دکتر مهسا گرجی,clinic,clinic,clinic,True,False,35.7665917,51.3572429,1433,,False
+کلینیک پوست آرتمیس,clinic,clinic,clinic,True,False,35.7690616,51.3279513,1434,,False
+انجمن دنیای بهتر,clinic,clinic,clinic,True,False,35.7723149,51.4367431,1435,,False
+کلینیک درمان زخم دنیای زخم,clinic,clinic,clinic,True,False,35.7085136,51.3851808,1438,,False
+دکتر عبدالرسول مولودی,doctors,doctor,doctors,True,False,35.7083285,51.3851996,1439,,False
+مرکز پوست دکتر رکسانا صدوقی,clinic,clinic,clinic,True,False,35.7881016,51.4213154,1440,,False
+مطب دکتر چراغچی,doctors,,doctors,True,False,35.6188456,51.4491101,1442,,False
+دكترمكارچيان,clinic,clinic,clinic,True,False,35.7713893,51.4145736,1443,,False
+دکتر حمید احمدی,doctors,doctor,doctors,True,False,35.7453669,51.4113563,1444,,False
+کلینیک دندانپزشکی نیلا,doctors,doctor,doctors,True,False,35.760072,51.4084926,1445,,False
+دکتر مهدی آقاعلیخانی,doctors,doctor,doctors,True,False,35.7990008,51.4142828,1447,,False
+مطب دکتر حسین ملازم,doctors,doctor,doctors,True,False,35.7702249,51.3619999,1448,,False
+مطب زیبایی دکتر اسما ارجمندی,doctors,clinic,doctors,True,False,35.743818,51.5302746,1449,,False
+کلینیک فیزیوتراپی مدیا,clinic,physiotherapist,clinic,True,False,35.6772358,51.3890573,1451,,False
+کلینیک زیبایی لیلین,clinic,,clinic,True,False,35.766887,51.4566748,1456,,False
+مطب دکتر سید حسن دیباجی,doctors,doctor,doctors,True,False,35.7808161,51.462,1457,,False
+کلینیک رادیولوژی دهان، فک و صورت دکتر میرزایی,doctors,doctor,doctors,True,False,35.6370043,51.4109025,1458,,False
+کلینیک درد افتخار,clinic,clinic,clinic,True,False,35.7756996,51.3662727,1459,,False
+کلینیک دکتر وحید کاوه  فوق تخصص هماتولوژی و آنکولوژی,clinic,clinic,clinic,True,False,35.7557703,51.3769625,1460,,False
+آزمایشگاه دنا,,laboratory,laboratory,True,False,35.7501035,51.4110915,1461,,False
+ساختمان پزشکان مریم,doctors,,doctors,True,False,35.7347898,51.4330611,1463,,False
+مرکز پزشکی- زیبایی مارین,,doctor,doctor,True,False,35.7463529,51.4651691,1466,,False
+ساختمان پزشکان اندیشه,clinic,clinic,clinic,True,False,35.6972763,51.3752254,1467,,False
+مطب زیبایی لانا,doctors,doctor,doctors,True,False,35.7798577,51.3662364,1469,,False
+دندانپزشکی نسیم پارک وی,clinic,clinic,clinic,True,False,35.7868512,51.415571,1471,,False
+مطب دکتر محمد مهدی سرزعیم,doctors,doctor,doctors,True,False,35.7733069,51.4429498,1473,,False
+کلینیک ارتودنسی دکتر ساغر هرندی,hospital,hospital,hospital,True,True,35.792743,51.4526377,1474,,False
+ليزر كلينيك تخت طاووس,clinic,clinic,clinic,True,False,35.7235698,51.4122435,1477,,False
+کلینیک طب فیزیکی و توانبخشی لگام,clinic,clinic,clinic,True,False,35.7488545,51.4094752,1479,,False
+کلینیک روانشناسی روان رشد,clinic,clinic,clinic,True,False,35.7270324,51.5290578,1481,,False
+کلینیک دندانپزشکی آنیسا,clinic,clinic,clinic,True,False,35.7666394,51.4138333,1483,,False
+کلینت ونتا,clinic,clinic,clinic,True,False,35.7695535,51.4198244,1484,,False
+کلینیک زیبایی روما,clinic,clinic,clinic,True,False,35.6494254,51.3116815,1487,,False
+کلینیک زیبایی آندیا,clinic,clinic,clinic,True,False,35.7703555,51.3625967,1489,,False
+کلینیک رزآبی,clinic,clinic,clinic,True,False,35.7830437,51.3790182,1490,,False
+خانه ایمپلنت (دکتر پورشاهی),clinic,clinic,clinic,True,False,35.7867009,51.42425,1491,,False
+کلینیک دکتر خوانساری,clinic,clinic,clinic,True,False,35.7879935,51.4602635,1493,,False
+مطب دکتر کاظم خوانساری,doctors,doctor,doctors,True,False,35.7444193,51.5633436,1494,,False
+دکتر محسن اسلامی متخصص کلیه و مجاری ادراری و ناباروی و hpv,doctors,doctor,doctors,True,False,35.7755413,51.4642193,1496,,False
+ساختمان پزشکان امام جعفرصادق نعمت آباد,clinic,clinic,clinic,True,False,35.630292,51.3584293,1498,,False
+مطب دکتر یوسف فام,doctors,doctor,doctors,True,False,35.7562304,51.3942187,1500,,False
+unnamed,clinic,,clinic,True,False,35.6189812,51.4610441,1501,,False
+کلینیک زیبایی لومیر,clinic,clinic,clinic,True,False,35.8055418,51.4733856,1503,,False
+کلینیک فیزیوتراپی پایدار,clinic,clinic,clinic,True,False,35.7709292,51.3656854,1504,,False
+کلینیک روانشناسی حس زندگی,clinic,clinic,clinic,True,False,35.779463,51.3648671,1506,,False
+مطب زیبایی و لیزر بنیز,doctors,doctor,doctors,True,False,35.7534292,51.4756274,1507,,False
+ارتوپدی فنی باریش,hospital,hospital,hospital,True,True,35.7723579,51.3240929,1508,,False
+دکتر بنفشه تاج بخش,doctors,doctor,doctors,True,False,35.7479454,51.410478,1510,,False
+کلینیک اورولوژی و ناتوانایی جنسی دکتر البرز وشتاسبی,clinic,clinic,clinic,True,False,35.7655366,51.476062,1516,,False
+کلینیک دندانپزشکی تبسم مهر,clinic,clinic,clinic,True,False,35.7628227,51.3982312,1517,,False
+کلینیک تخصصی طب کار دانیال,clinic,clinic,clinic,True,False,35.6372183,51.411074,1518,,False
+مطب دکتر احیا خان احمدی - متخصص زنان و زایمان,doctors,doctor,doctors,True,False,35.7967109,51.4194786,1520,,False
+کلینیک زیبایی مه رویان,clinic,clinic,clinic,True,False,35.7753678,51.4207004,1522,,False
+کلینیک سلول های بنیادی دکتر فتحی,clinic,clinic,clinic,True,False,35.8009293,51.4610733,1523,,False
+مطب پوست، زیبایی و لیزر نیژ,doctors,doctor,doctors,True,False,35.756175,51.3941866,1524,,False
+کلینیک زیبایی مهر,clinic,clinic,clinic,True,False,35.7396499,51.4962172,1525,,False
+کلینیک ارتوپدی فنی رادمان,clinic,clinic,clinic,True,False,35.7084784,51.3851949,1528,,False
+مرکز دیالیز بیمارستان لبافی نژاد,clinic,dialysis,clinic,True,False,35.7672987,51.4637096,1530,,False
+کلینیک مهر افروز,clinic,clinic,clinic,True,False,35.8119214,51.4596225,1531,,False
+دکتر امیرحسین امامی میبدی,doctors,doctor,doctors,True,False,35.7587796,51.3617984,1532,,False
+دکتر وهاب آسترکی,doctors,doctor,doctors,True,False,35.7989236,51.4734004,1533,,False
+کلینیک لیما,clinic,clinic,clinic,True,False,35.7799847,51.4588386,1534,,False
+مجموعه پزشکی سانیک,clinic,clinic,clinic,True,False,35.7172373,51.4072106,1535,,False
+رادیولوژی و سونوگرافی دکتر شهریاریان,doctors,doctor,doctors,True,False,35.7083787,51.3837272,1536,,False
+تصویربرداری و سونوگرافی معراج,doctors,doctor,doctors,True,False,35.7080553,51.3825872,1537,,False
+مطب دکتر وحید معتمدی,doctors,doctor,doctors,True,False,35.7081545,51.3879699,1538,,False
+مطب دكتر سيد محمود اسحق حسينى,doctors,doctor,doctors,True,False,35.7082722,51.3839104,1539,,False
+مطب دکتر فرهاد شاهی,doctors,doctor,doctors,True,False,35.708311,51.3837812,1540,,False
+دکتر عباس علی بخشی,doctors,doctor,doctors,True,False,35.7082696,51.3852432,1541,,False
+مرکز تصویربرداری و ام آر آی تهران ۱۰۱,doctors,doctor,doctors,True,False,35.7085043,51.3851438,1542,,False
+دکتر قره گزلو,doctors,doctor,doctors,True,False,35.7082485,51.3855463,1543,,False
+مطب دکتر شهریار عزیزی,,clinic,clinic,True,False,35.7776036,51.3581622,1548,,False
+آزمایشگاه آناهیت,,laboratory,laboratory,True,False,35.7573782,51.1573538,1550,,False
+پلی کلینیک تخصصی طاها تب,clinic,,clinic,True,False,35.7412229,51.5479856,1551,,False
+دکتر امیر رضا معتبر,doctors,doctor,doctors,True,False,35.7996976,51.4688034,1552,,False
+دکتر جواد خالقی,doctors,doctor,doctors,True,False,35.797291,51.4102705,1553,,False
+آزمایشگاه دنا,hospital,hospital,hospital,True,True,35.7500692,51.4110696,1555,,False
+کلینیک زیبایی آسا,clinic,clinic,clinic,True,False,35.638974,51.4109558,1558,,False
+کلینیک زیبایی نیکی,clinic,clinic,clinic,True,False,35.6975561,51.3752764,1561,,False
+مجتمع پزشکی شفاء,clinic,clinic,clinic,True,False,35.7565986,51.162908,1562,,False
+اورژانس بیمارستان میلاد,hospital,hospital,hospital,True,True,35.745083,51.3802188,1563,,False
+مطب پوست و مو شیلر بیوتی,clinic,clinic,clinic,True,False,35.7342708,51.3584021,1564,,False
+مرکز تصویربرداری امید نوین,hospital,hospital,hospital,True,True,35.7562819,51.3955302,1565,,False
+کلینیک زیبایی سام شعبه زعفرانیه,clinic,clinic,clinic,True,False,35.7932284,51.4108218,1567,,False
+دکتر محمد زواره ای بوتاکس معده,doctors,doctor,doctors,True,False,35.772027,51.3784506,1568,,False
+مرکز ترک اعتیاد آوای سحر,clinic,,clinic,True,False,35.740709,51.5512753,1570,,False
+درمان کمردرد از راه دور دکتر محمدی,clinic,clinic,clinic,True,False,35.7892387,51.4235436,1572,,False
+کلینیک زیبایی دکتر یسری طباطبایی,clinic,clinic,clinic,True,False,35.8122419,51.4570183,1573,,False
+کلینیک زیبایی شاداب,clinic,clinic,clinic,True,False,35.7616439,51.3360714,1574,,False
+کلینیک گفتاردرمانی کاردرمانی و نوروتراپی ماهان,clinic,clinic,clinic,True,False,35.6315757,51.3752093,1577,,False
+دندانپزشکی دکتر برشوئی,doctors,doctor,doctors,True,False,35.7885518,51.4230579,1578,,False
+کلینیک زیبایی ماه زر,clinic,clinic,clinic,True,False,35.7712639,51.367641,1580,,False
+رادیولوژی فک دندان و صورت,doctors,doctor,doctors,True,False,35.7814383,51.3712126,1581,,False
+مرکز زیبایی دکتر الگا,clinic,clinic,clinic,True,False,35.8130301,51.4109952,1584,,False
+Loveya Skincare,clinic,clinic,clinic,True,False,35.7924421,51.4161584,1586,,False
+بیمارستان نور,hospital,hospital,hospital,True,True,35.6103699,51.4386695,1587,,False
+سونوگرافی و رادیولوژی دکتر الهی فر,,laboratory,laboratory,True,False,35.7562301,51.3946037,1588,,False
+مطب دکتر ناصر امینی صدر,doctors,doctor,doctors,True,False,35.7630359,51.4436204,1590,,False
+مطب دکتر ایوب صالحی,hospital,hospital,hospital,True,True,35.735506,51.3419725,1591,,False
+کلینیک زیبایی سوین,clinic,clinic,clinic,True,False,35.7809074,51.3529843,1595,,False
+محموعه لاغری وندا,clinic,clinic,clinic,True,False,35.7955429,51.3585093,1598,,False
+چشم پزشکی دکتر بابک صادقی,doctors,doctor,doctors,True,False,35.7345868,51.3291377,1600,,False
+دکتر احسان مرادی متخصص جراحی مغز و اعصاب,doctors,doctor,doctors,True,False,35.7641213,51.4447565,1602,,False
+رادیولوژی و سونوگرافی مهرگان,doctors,doctor,doctors,True,False,35.734616,51.3291627,1603,,False
+مطب گلها (سانا اسکین سابق),doctors,doctor,doctors,True,False,35.7632134,51.3372555,1604,,False
+متخصص زنان و زایمان الهه سلگی,doctors,doctor,doctors,True,False,35.7570376,51.3990129,1605,,False
+آزمایشگاه پاتوبیولوژی مدیک,,laboratory,laboratory,True,False,35.7526783,51.4118757,1606,,False
+کلینیک زخم بینش,clinic,clinic,clinic,True,False,35.7085566,51.3974926,1607,,False
+مطب دکتر زینب بهرام نژاد متخصص زنان و زایمان,doctors,doctor,doctors,True,False,35.7656632,51.4761286,1608,,False
+فیزیوتراپی شادتن,doctors,doctor,doctors,True,False,35.7829375,51.3813867,1610,,False
+كلينيك پوست و مو دكتر سارا نجفي,doctors,doctor,doctors,True,False,35.8094323,51.4136212,1611,,False
+مرکز جراحی زیبایی ساوی,clinic,clinic,clinic,True,False,35.8071126,51.4623933,1612,,False
+دکتر مهران آقاگلی,doctors,doctor,doctors,True,False,35.7589242,51.4133033,1613,,False
+فصد خون سپهر,,blood_donation,blood_donation,False,True,35.770146,51.4401813,1614,,False
+مرکز تصویر برداری رازی(دکتر علیزاده),clinic,clinic,clinic,True,False,35.5925692,51.4402131,1621,,False
+بیمارستان سینا,hospital,hospital,hospital,True,True,35.6863276,51.4119795,1622,,False
+آزمایشگاه پاتوبیولوژی دکتر سرخه ای,,laboratory,laboratory,True,False,35.6531921,51.4989536,1623,,False
+کلینیک اورولوژی دکتر آرش رنجبر,clinic,clinic,clinic,True,False,35.7803548,51.4625986,1624,,False
+مرکز زیبایی و تناسب اندام آرمیتا,clinic,clinic,clinic,True,False,35.7338255,51.3942651,1625,,False
+دکتر مجید فرجی قلب و عروق,doctors,doctor,doctors,True,False,35.7677845,51.461538,1628,,False
+دکتر فرشید احمدی پوست و زیبایی,doctors,doctor,doctors,True,False,35.7390491,51.3265438,1629,,False
+مطب دندانپزشکی و ایمپلنت دکتر اورعی,doctors,doctor,doctors,True,False,35.7534594,51.5304519,1630,,False
+رادیولوژی و سونوگرافی کوروش,clinic,clinic,clinic,True,False,35.7073991,51.3905033,1631,,False
+دکتر آنا دیلمی پزشک زیبایی,doctors,doctor,doctors,True,False,35.7837412,51.4471614,1634,,False
+مطب دکتر محمد علی قائد,doctors,doctor,doctors,True,False,35.7830761,51.3774575,1635,,False
+مطب دندانپزشکی دکتر فریور,doctors,doctor,doctors,True,False,35.7706437,51.37238,1637,,False
+دکتر سلطانی نژاد,doctors,doctor,doctors,True,False,35.6313689,51.3685681,1638,,False
+دکتر حمیدرضا آزادی فرد,doctors,doctor,doctors,True,False,35.640659,51.4875762,1639,,False
+مطب دکتر لیلا مقدم,doctors,doctor,doctors,True,False,35.7600124,51.4144096,1641,,False
+کلینیک ترک اعتیاد پیام تندرستی,doctors,doctor,doctors,True,False,35.7614311,51.400609,1642,,False
+مطب دکتر پاکنژاد روانشناس,doctors,doctor,doctors,True,False,35.7528651,51.3735083,1647,,False
+پزشک متخصص وجراح  زنان و زایمان,doctors,doctor,doctors,True,False,35.7656264,51.3610624,1649,,False
+کلینیک زیبایی نیلاز,clinic,clinic,clinic,True,False,35.7577426,51.3159376,1650,,False
+پزشک متخصص قلب و عروق  دکتر ترقی,doctors,doctor,doctors,True,False,35.7287872,51.4205941,1651,,False
+کلینیک زیبایی لیا,doctors,doctor,doctors,True,False,35.7706357,51.3743836,1652,,False
+کلینیک زیبایی مهرزاد,doctors,doctor,doctors,True,False,35.7836998,51.3819751,1654,,False
+رادیولوژی و سونوگرافی مرزداران غرب,,laboratory,laboratory,True,False,35.7342014,51.3547557,1657,,False
+مطب دکتر فواد فولادی,doctors,doctor,doctors,True,False,35.7973206,51.4588393,1659,,False
+دکتر مهدی حیدری روانپزشک,doctors,doctor,doctors,True,False,35.738549,51.5581277,1660,,False
+دندانپزشکی مریم چهارکامه,doctors,doctor,doctors,True,False,35.6459977,51.4729286,1661,,False
+دکتر آرمان فر متخصص جراحي مغز واعصاب,doctors,doctor,doctors,True,False,35.7630909,51.4440372,1662,,False
+کلینیک روانشناسی روشان,doctors,doctor,doctors,True,False,35.7804683,51.4574657,1663,,False
+دکتر محمد نویدی,doctors,doctor,doctors,True,False,35.7814806,51.371232,1664,,False
+دکتر شباهنگ محمدی,doctors,doctor,doctors,True,False,35.7504544,51.4088282,1665,,False
+دکتر امیرعلی سهراب پور,doctors,doctor,doctors,True,False,35.8116902,51.4504395,1666,,False
+Unique Smile مطب دندانپزشکی دکتر لیلا عطایی,doctors,doctor,doctors,True,False,35.8048807,51.4622113,1667,,False
+دکتر شروین قوامی,doctors,doctor,doctors,True,False,35.7715169,51.3771223,1669,,False
+دکتر طاهره فروغی فر,doctors,doctor,doctors,True,False,35.7714757,51.3828672,1672,,False
+مطب تخصصي دندانپزشكي دكتر عليرضا اميني,doctors,doctor,doctors,True,False,35.7704131,51.412366,1675,,False
+مطب نوروتراپی و روانپزشکی دکتر کروندی,doctors,doctor,doctors,True,False,35.756844,51.3988962,1676,,False
+دکتر سعید طالب زاده بنکدار,doctors,doctor,doctors,True,False,35.7949304,51.4170088,1677,,False
+مطب دکتر حسن راشکی اگزوزوم تراپی,doctors,doctor,doctors,True,False,35.7305773,51.4129971,1678,,False
+مطب آلرژي دكتر سپيده داروگر,doctors,doctor,doctors,True,False,35.8120809,51.4633932,1679,,False
+گروه روانپزشکی ویان مطب دکتر سامرند سلیمی مطب علامه,doctors,psychotherapist,doctors,True,False,35.7715159,51.3829297,1680,,False
+آزمایشگاه خیریه موسوی کیانی,,laboratory,laboratory,True,False,35.6716297,51.4318161,1684,,False
+مرکز تخصصی فیزیوتراپی دکتر جمهوری,doctors,doctor,doctors,True,False,35.8099834,51.4505108,1686,,False
+بهبود طب,doctors,doctor,doctors,True,False,35.7360938,51.4312194,1698,,False
+مرکز روانشناسی دکتر سرافزازنسب,doctors,doctor,doctors,True,False,35.7551919,51.3340697,1701,,False
+مطب دکتر علیرضا رئوف,doctors,doctor,doctors,True,False,35.7713718,51.3805649,1703,,False
+دکتر علیرضا رئوف,doctors,doctor,doctors,True,False,35.7712214,51.3805625,1704,,False
+مطب سعادت آباد دکتر بهزاد محمودی نژاد,doctors,doctor,doctors,True,False,35.7833988,51.3806705,1705,,False
+دکتر نیکا مجاهد یزدی,hospital,hospital,hospital,True,True,35.796707,51.4121023,1706,,False
+دکتر سعیده عادلی متخصص قلب و واریس,doctors,doctor,doctors,True,False,35.7701783,51.3637123,1709,,False
+کلینیک قلب کودکان و اکو جنین دکتر رضا مسیحی,clinic,clinic,clinic,True,False,35.7470111,51.4496373,1710,,False
+دکتر فاطمه متقی زاده  کلینیک جامع قلب و عروق آرام,clinic,clinic,clinic,True,False,35.7267018,51.4361358,1714,,False
+ساختمان پزشکان جمهوری,clinic,clinic,clinic,True,False,35.6959054,51.3833432,1715,,False
+مطب دندانپزشکی دکتر آذر رئوفی,doctors,doctor,doctors,True,False,35.6990229,51.382297,1717,,False
+مطب دکتر سپیده نیازی,doctors,doctor,doctors,True,False,35.7338164,51.3942032,1718,,False
+مطب دکتر ابراهیم محمدنشتایی,doctors,doctor,doctors,True,False,35.7605704,51.4510904,1720,,False
+دکتر مائده پورنصیر دندانپزشک،متخصص لثه و ایمپلنت,doctors,doctor,doctors,True,False,35.7807126,51.4630084,1721,,False
+مطب دکتر الهام کفایی,doctors,doctor,doctors,True,False,35.80786,51.4193691,1725,,False
+مطب تغذیه دکتر حسنی,doctors,doctor,doctors,True,False,35.7696983,51.3588289,1727,,False
+دکتر حمیده طهماسبی بروجنی,doctors,doctor,doctors,True,False,35.7824615,51.3762734,1728,,False
+مطب دکتر فروزان بلوری جراح و متخصص زنان و زایمان,doctors,doctor,doctors,True,False,35.6345176,51.3814314,1731,,False
+مرکز روانشناسی و نوروفیدبک طناز یوسفی,doctors,doctor,doctors,True,False,35.773044,51.4202358,1734,,False
+کلینیک زیبایی ملل,doctors,doctor,doctors,True,False,35.726492,51.5228936,1736,,False
+آزمایشگاه صدرآزما,,laboratory,laboratory,True,False,35.6506693,51.451352,1737,,False
+مطب پزشکی دکتر سعید ساعدی,doctors,doctor,doctors,True,False,35.7776835,51.3588952,1740,,False
+مرکز سلامت نسیم,clinic,clinic,clinic,True,False,35.7881418,51.3678963,1741,,False
+ساختمان پزشکان سرو,clinic,clinic,clinic,True,False,35.781747,51.3731949,1742,,False
+دندانپزشكى دكتر خانبانى,doctors,doctor,doctors,True,False,35.7966517,51.4342333,1743,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک اوستا,,laboratory,laboratory,True,False,35.7236223,51.41423,1744,,False
+مطب دکتر مهسا رکابی,doctors,doctor,doctors,True,False,35.7939108,51.4509105,1745,,False
+کلینیک دامپزشکی دکتر پرکار,hospital,hospital,hospital,True,True,35.7366262,51.3377365,1746,,False
+کلینیک زیبایی لیوسا,clinic,clinic,clinic,True,False,35.7688414,51.4765913,1747,,False
+مطب دکتر سعدآبادی,doctors,doctor,doctors,True,False,35.7355379,51.3410605,1748,,False
+متخصص اطفال (دکتر فاطمه طبسی ),doctors,doctor,doctors,True,False,35.6499397,51.4761331,1750,,False
+مطب پزشکی,doctors,doctor,doctors,True,False,35.7487053,51.4094178,1751,,False
+سونوگرافي آلستوم (دكتر شهاب مهاجر شيرواني),doctors,doctor,doctors,True,False,35.7202894,51.355822,1753,,False
+مطب دکتر سیده غنچه لنگری,doctors,doctor,doctors,True,False,35.7806251,51.4623486,1754,,False
+فیزیوتراپی کیان,doctors,doctor,doctors,True,False,35.738996,51.4957163,1755,,False
+دکتر سید حسن مهدوی,doctors,doctor,doctors,True,False,35.7431925,51.5318267,1756,,False
+فیزیوتراپی مریم درستی,doctors,doctor,doctors,True,False,35.7578771,51.3046096,1757,,False
+مطب دکتر عسل پرورش جراح دندانپزشک,doctors,doctor,doctors,True,False,35.7862088,51.4248124,1758,,False
+راضیه فرقانی کارشناس بیماریهای زنان ومامایی,clinic,clinic,clinic,True,False,35.6346734,51.4217403,1760,,False
+مطب دکتر نازنین سلطانی جراح و متخصص زنان,doctors,doctor,doctors,True,False,35.7831911,51.3821822,1761,,False
+دکتر سارا فرهادی متخصص کودکان,doctors,doctor,doctors,True,False,35.7786203,51.4893933,1764,,False
+دکتر محسن نبیونی,doctors,doctor,doctors,True,False,35.7583906,51.3616618,1765,,False
+مرکز درمان در منزل درمان تو,clinic,clinic,clinic,True,False,35.7585306,51.4125079,1766,,False
+دکتر‌قادری پوست‌زیبایی فیزیوتراپی پندار,doctors,doctor,doctors,True,False,35.7838689,51.3664656,1768,,False
+کلینیک قلب عروق و واریس دکتر هومن محمودی,doctors,doctor,doctors,True,False,35.7868526,51.4217809,1771,,False
+دکتر فراز سلیمانی,doctors,doctor,doctors,True,False,35.7684657,51.2918745,1772,,False
+دکتر سید نوید حسینی فر پزشک متخصص جراح عمومی,doctors,doctor,doctors,True,False,35.7024577,51.3863887,1773,,False
+کلینیک دندان پزشکی سرو بین الملل (شعبه فرشته),clinic,clinic,clinic,True,False,35.7865483,51.4275054,1774,,False
+مرکز کاردرمانی و گفتاردرمانی کورتکس,doctors,hospital,doctors,True,False,35.7576652,51.315948,1777,,False
+دکتر احمدی مقدم,doctors,doctor,doctors,True,False,35.7459735,51.4115149,1779,,False
+مطب دکتر مریم موسی وند درمان اسکار,doctors,doctor,doctors,True,False,35.7656809,51.4184044,1784,,False
+کلینیک دکتر سید بهروز امامی,doctors,doctor,doctors,True,False,35.7700057,51.3951046,1786,,False
+دکتر مهدی نیکوبخت,doctors,doctor,doctors,True,False,35.7542022,51.3963162,1789,,False
+گروه تخصصی فک و صورت دکتر بهاری,clinic,clinic,clinic,True,False,35.7714447,51.3557894,1790,,False
+کلینیک ساختمانی ذوالفقاری,clinic,clinic,clinic,True,False,35.7547717,51.3996619,1791,,False
+کلینیک شنوایی و تعادل و سمعک فرمانیه,clinic,clinic,clinic,True,False,35.7990554,51.4726691,1792,,False
+دکترساناز گودرزی,doctors,doctor,doctors,True,False,35.7779853,51.4437174,1795,,False
+کلینیک فوق تخصصی زیبایی ساباط,clinic,clinic,clinic,True,False,35.7866419,51.4243263,1796,,False
+مرکز درمان در منزل جهاد دانشگاهی علوم پزشکی تهران,clinic,clinic,clinic,True,False,35.698495,51.4002843,1799,,False
+کلینیک دندانپزشکی جهاد دانشگاهی علوم پزشکی تهران,clinic,clinic,clinic,True,False,35.6992131,51.400049,1800,,False
+دکتر مهریار خسروشاهی دیابتولوژیست,doctors,doctor,doctors,True,False,35.7722542,51.3531519,1801,,False
+مطب دکتر ناصر علیزاده,doctors,doctor,doctors,True,False,35.7266301,51.3233154,1803,,False
+دکتر شیارکار جراح و متخصص بیماری‌های چشم,doctors,doctor,doctors,True,False,35.7535331,51.4806448,1804,,False
+کلینیک لاغری دکتر کاظمی,clinic,clinic,clinic,True,False,35.7710223,51.366996,1806,,False
+مطب دکتر علیرضا نجف,doctors,doctor,doctors,True,False,35.7206305,51.3892475,1807,,False
+كلينيك زيبايي درناز,clinic,clinic,clinic,True,False,35.7699693,51.3584811,1809,,False
+دندانپزشکی نیکان,clinic,clinic,clinic,True,False,35.7258686,51.4357051,1810,,False
+کلینیک روانشناسی سبک زندگی,clinic,clinic,clinic,True,False,35.7617721,51.4682544,1811,,False
+ساختمان پزشکان کالج,clinic,clinic,clinic,True,False,35.7890787,51.4594072,1814,,False
+درمانگاه شبانه روزی دکتر صفائیان,clinic,clinic,clinic,True,False,35.7356843,51.4406116,1816,,False
+دکتر انوشه اسدی,doctors,doctor,doctors,True,False,35.7407517,51.5331343,1817,,False
+مطب تغذیه و رژیم درمانی بهاره آقایی,clinic,clinic,clinic,True,False,35.786679,51.4242104,1818,,False
+مرکز دندانپزشکی دکتر علی ستوده,doctors,doctor,doctors,True,False,35.7525429,51.5096484,1819,,False
+دکتر رضا پیرهادی,doctors,doctor,doctors,True,False,35.7288701,51.5202963,1820,,False
+پزشک متخصص زنان  فلوشیپ لاپاراسکوپی دکتر اتوسا قاسمی,doctors,doctor,doctors,True,False,35.7356871,51.3390653,1821,,False
+دکتر شادی احدی فر ( روانشناس و بازیگر),doctors,doctor,doctors,True,False,35.7557014,51.3331987,1823,,False
+مطب دکتر سعید انتظاری,doctors,doctor,doctors,True,False,35.7703469,51.3629076,1824,,False
+مطب دکتر سیامک فائز,hospital,hospital,hospital,True,True,35.7231339,51.4231328,1826,,False
+unnamed,doctors,clinic,doctors,True,False,35.7229965,51.423176,1827,,False
+unnamed,hospital,hospital,hospital,True,True,35.7228031,51.4234543,1828,,False
+کلینیک زیبایی یروشا,clinic,clinic,clinic,True,False,35.8190189,51.4914316,1829,,False
+مطب دکتر محمد مجیدی,doctors,doctor,doctors,True,False,35.8077081,51.419527,1830,,False
+مطب دندانپزشکی دکتر مجید بهنام تقی پور,doctors,doctor,doctors,True,False,35.7652217,51.4346622,1832,,False
+مرکز چکاپ هوشمند و جوانسازی ریترن,clinic,clinic,clinic,True,False,35.7699891,51.4403096,1833,,False
+کلینیک زیبایی دیورا,clinic,clinic,clinic,True,False,35.7906977,51.4213611,1835,,False
+کلینیک تخصصی ارتوپدی فنی رجبی راد,clinic,clinic,clinic,True,False,35.7074732,51.3907532,1836,,False
+مطب دندانپزشکی دکتر امید شهباز زاده,doctors,doctor,doctors,True,False,35.7685956,51.4197644,1837,,False
+مرکز مشاوره و رواندرمانی خانه نیکان,clinic,clinic,clinic,True,False,35.7631494,51.4440181,1840,,False
+ساختمان پزشکی پارس,clinic,clinic,clinic,True,False,35.7316113,51.4596373,1842,,False
+کلینیک تغذیه دکتر یگانه کیان,doctors,doctor,doctors,True,False,35.7711217,51.3669365,1843,,False
+شفا کلینیک,clinic,,clinic,True,False,35.7080863,51.3888209,1844,,False
+دکتر حمیدرضا بدیهی,doctors,clinic,doctors,True,False,35.7374273,51.5561933,1845,,False
+Turan Hearing Aid Center,hospital,hospital,hospital,True,True,35.7417034,51.5326919,1846,,False
+ازمایشگاه تشخیص طبی رایت,,laboratory,laboratory,True,False,35.6791524,51.4012244,1848,,False
+کلینیک اریتمی دکتر امیر طاووسی,doctors,doctor,doctors,True,False,35.7520179,51.4109308,1850,,False
+دکتر مریم شاه حسینی,doctors,doctor,doctors,True,False,35.7999922,51.4504124,1851,,False
+مطب آقای دکتر سالار باغبانی,doctors,doctor,doctors,True,False,35.7391696,51.5931972,1852,,False
+مطب زیبایی دکتر رعنا هاشمی,doctors,doctor,doctors,True,False,35.7289611,51.4136049,1856,,False
+كلینیك رادیولوژی و سونوگرافی مهر,clinic,clinic,clinic,True,False,35.751728,51.2883074,1857,,False
+مطب ارتوپدی دکتر سالار باغبانی,doctors,doctor,doctors,True,False,35.7270797,51.3792286,1859,,False
+درمانگاه کریمهٔ اهل بیت,clinic,,clinic,True,False,35.689719,51.3907752,1860,,False
+Moukaran Hair Clinic,clinic,,clinic,True,False,35.7584869,51.4080708,1861,,False
+دکتر مریم علی اکبر متخصص زنان,doctors,doctor,doctors,True,False,35.7828379,51.3761351,1862,,False
+درمانگاه شبانه روزی سهند ( فتح الله زاده),clinic,clinic,clinic,True,False,35.6316371,51.3751678,1863,,False
+کلینیک زیبایی استارلت,clinic,clinic,clinic,True,False,35.8088005,51.4154426,1866,,False
+مطب پوست و مو زیبایی دکتر ملیحه عسگری,doctors,doctor,doctors,True,False,35.7564022,51.4506241,1870,,False
+مطب دکتر محدثه داوری دهان و دندانپزشکی,doctors,doctor,doctors,True,False,35.7773072,51.4188608,1871,,False
+مطب دکتر مهدی حسن آبادی,doctors,,doctors,True,False,35.7118017,51.4023307,1873,,False
+کلینیک دکتر عاطفه لارتی متخصص طب فیزیکی ستون فقرات و مفاصل,doctors,doctor,doctors,True,False,35.8077854,51.4412471,1874,,False
+مرکز تغذیه و رژیم درمانی کیمیا,doctors,doctor,doctors,True,False,35.721286,51.4278713,1875,,False
+دکتر ثریا موحد,doctors,doctor,doctors,True,False,35.7712793,51.378128,1876,,False
+کلینیک روانشناسی روان الماس,doctors,psychotherapist,doctors,True,False,35.7635574,51.3044488,1877,,False
+دکترغلامرضا موسوی مجد,doctors,doctor,doctors,True,False,35.7587465,51.4132234,1878,,False
+درمانگاه لرزاده,hospital,hospital,hospital,True,True,35.6642259,51.4394881,1881,,False
+فیزیوتراپی شمس,doctors,doctor,doctors,True,False,35.741613,51.5468869,1882,,False
+کلینیک دکتر محمدپور,clinic,clinic,clinic,True,False,35.8172136,51.4809171,1883,,False
+مطب دکتر علیرضا جلیل زاده خویی,doctors,doctor,doctors,True,False,35.7390338,51.4092364,1884,,False
+دکتر شهاب آفرینگاه,doctors,doctor,doctors,True,False,35.7987515,51.4607129,1885,,False
+مطب دادمان,doctors,doctor,doctors,True,False,35.765879,51.3594338,1886,,False
+کلینیک زیبایی فارال اسکین,doctors,doctor,doctors,True,False,35.7393739,51.4950574,1887,,False
+پزشکی هسته ای دکتر نقشینه,clinic,clinic,clinic,True,False,35.7559859,51.3267654,1891,,False
+رادیولوژی فک و صورت نورا پرتو,doctors,doctor,doctors,True,False,35.7499662,51.4497821,1892,,False
+دکتر علی فرهودی,doctors,doctor,doctors,True,False,35.7607523,51.4191283,1894,,False
+طبابت داخلی کلیه و فشارخون دکتر حمید پیراسته,doctors,doctor,doctors,True,False,35.7472466,51.4110788,1895,,False
+مطب دکتر علی یوسفی اودرجی,doctors,doctor,doctors,True,False,35.7614937,51.462079,1897,,False
+کلینیک لاغری ماهسان,clinic,clinic,clinic,True,False,35.7836029,51.3664873,1899,,False
+شرکت داروسازی پارس حیان,,laboratory,laboratory,True,False,35.7720714,51.4203978,1900,,False
+دکتر یلدا پورحسن متخصص زنان و زایمان و نازایی,doctors,doctor,doctors,True,False,35.7583175,51.3619418,1901,,False
+دکتر سمیرا نوردی فلوشیپ ام اس,doctors,doctor,doctors,True,False,35.7579809,51.450715,1903,,False
+مشاوره‌ روانشناسی وتحصیلی,doctors,doctor,doctors,True,False,35.7997069,51.4464287,1904,,False
+مطب زیبایی دکتر نغمه دهقانیان,doctors,doctor,doctors,True,False,35.7628916,51.4427495,1905,,False
+مرکز تخصصی ارتوپدی فنی طارمی,clinic,clinic,clinic,True,False,35.742062,51.4528878,1907,,False
+کلینیک مدرن,clinic,clinic,clinic,True,False,35.7324023,51.3561232,1909,,False
+مطب دکترفرید عاملی,doctors,doctor,doctors,True,False,35.723248,51.4234888,1911,,False
+مطب دکتر فضلی فوق تخصص گوارش و کبد,doctors,doctor,doctors,True,False,35.7654305,51.3615605,1914,,False
+دکتر سجاد محمدی,doctors,doctor,doctors,True,False,35.7797748,51.366338,1915,,False
+دکتر هاجر تندگویان,doctors,doctor,doctors,True,False,35.7603928,51.4508974,1916,,False
+آزمایشگاه دکتر ناجی,,laboratory,laboratory,True,False,35.751928,51.3041796,1917,,False
+دکتر پریسا پورفرزانه,doctors,doctor,doctors,True,False,35.8207619,51.4338795,1918,,False
+گروه پزشكى باور | Bavar Medical Group,doctors,doctor,doctors,True,False,35.7975159,51.4101968,1919,,False
+مطب دکتر هادی آمالی,doctors,doctor,doctors,True,False,35.7602417,51.4141067,1920,,False
+مرکز مشاوره ساجد,doctors,doctor,doctors,True,False,35.7661663,51.3401773,1922,,False
+کلینیک تخصصی زیبائی دکتر اکرم کریمیار,doctors,doctor,doctors,True,False,35.6372973,51.404622,1924,,False
+طب سوزنی هستیا,clinic,clinic,clinic,True,False,35.7920542,51.4167351,1925,,False
+آزمایشگاه تشخیص پزشکی پورسینا,,laboratory,laboratory,True,False,35.7591694,51.3121437,1927,,False
+دکتر مانا رضایی مشاوره کودک و فرزندپروری,clinic,clinic,clinic,True,False,35.7823772,51.4144767,1928,,False
+کلینیک آفتاب مرکز تخصصی پوست و مو و زیبایی,clinic,clinic,clinic,True,False,35.7510368,51.3278008,1931,,False
+مطب پوست و مو دکتر ویدا شکیبا,doctors,doctor,doctors,True,False,35.8087242,51.4157432,1935,,False
+دکتر علی حاجب,doctors,doctor,doctors,True,False,35.7752547,51.4638673,1938,,False
+مطب روانشناسی سارا رشیدی,doctors,doctor,doctors,True,False,35.7926387,51.4180858,1939,,False
+مطب دکتر مهرناز میرزایی,doctors,doctor,doctors,True,False,35.7537427,51.3662196,1941,,False
+درمانگر زهرا نوشاد,doctors,doctor,doctors,True,False,35.7666536,51.4431299,1942,,False
+مطب روان پزشکی دکتر علی نیک جو,doctors,doctor,doctors,True,False,35.7601197,51.441782,1943,,False
+دکتر صالحیان جراح عمومی و عروق,doctors,doctor,doctors,True,False,35.7668199,51.4409634,1944,,False
+مرکز مشاوره و ارائه خدمات پرستاری نشاط زندگی در منزل,doctors,doctor,doctors,True,False,35.6990235,51.3916419,1945,,False
+آزمایشگاه پاتوبیولوژی و ژنتیک جردن,,laboratory,laboratory,True,False,35.7612197,51.4195045,1946,,False
+fasdekhooncenter.com,hospital,hospital,hospital,True,True,35.7618688,51.4597708,1947,,False
+دکتر علی شهابی,doctors,doctor,doctors,True,False,35.7775823,51.3589666,1948,,False
+دکتر علی اصغر باباجانی,doctors,doctor,doctors,True,False,35.7588395,51.4132518,1950,,False
+کلینیک آسمان,clinic,clinic,clinic,True,False,35.7755123,51.364347,1951,,False
+مطب دکتر مهتاب آروان,doctors,doctor,doctors,True,False,35.7895391,51.3747648,1952,,False
+مطب دکتر وحدت زنبوری- فوق تخصص غدد,doctors,doctor,doctors,True,False,35.7792735,51.4447057,1953,,False
+دکتر مائده عابدین زاده,doctors,doctor,doctors,True,False,35.7706698,51.3745403,1955,,False
+کلینیک نسیمی,clinic,clinic,clinic,True,False,35.7437515,51.3128923,1956,,False
+مطب دکتر باقر افشار,doctors,doctor,doctors,True,False,35.7797111,51.4494481,1959,,False
+مرکز پزشکی تخصصی کودکان رویش,clinic,clinic,clinic,True,False,35.7716858,51.3823922,1961,,False
+درمان درمنزل همراز,clinic,clinic,clinic,True,False,35.6997787,51.3902043,1962,,False
+مطب دکتر دامون طاهرزاده,doctors,doctor,doctors,True,False,35.7653988,51.4420517,1963,,False
+مرکز اکوکاردیوگرافی قلب جنین و کودک,doctors,doctor,doctors,True,False,35.7255041,51.4193661,1965,,False
+مطب پوست و مو  دکتر شعله,doctors,doctor,doctors,True,False,35.7572092,51.4497748,1966,,False
+مطب دکتر زهرا استیلاف,doctors,doctor,doctors,True,False,35.7591433,51.4416765,1967,,False
+مطب چشم پزشکی دکتر علی ایزدی,doctors,doctor,doctors,True,False,35.7680591,51.411956,1968,,False
+دکتر مستان شقاقی متخصص زیبایی,doctors,doctor,doctors,True,False,35.7765814,51.3653179,1970,,False
+کلینیک روانشناسی و مشاوره بلوم,doctors,doctor,doctors,True,False,35.7911112,51.4567257,1972,,False
+مرکز درمان اعتیاد نیلوپر,clinic,clinic,clinic,True,False,35.7367038,51.432593,1973,,False
+کلینیک زیبایی سپید,doctors,doctor,doctors,True,False,35.7564501,51.4496989,1974,,False
+مطب دکتر مرتضی رضیعی,doctors,doctor,doctors,True,False,35.734154,51.3545608,1975,,False
+كلينيك دكتر مهدوي نيا,doctors,doctor,doctors,True,False,35.7980644,51.4215486,1980,,False
+دکتر فربد امامی یگانه جراح چاقی,doctors,doctor,doctors,True,False,35.7629258,51.4427362,1981,,False
+مطب دکتر سید امیر حامد همراهیان پزشک عمومی,doctors,doctor,doctors,True,False,35.7377427,51.4323267,1982,,False
+دکتر محمدتقی جعفری,doctors,doctor,doctors,True,False,35.7460302,51.5355829,1983,,False
+درمانگاه شبانه‌روزی شهید مهدوی,clinic,,clinic,True,False,35.7395393,51.4752951,1986,,False
+کلینیک زیبایی بلوط,doctors,doctor,doctors,True,False,35.6023381,51.4375391,1987,,False
+آزمایشگاه پاتوبیولوژی عماد,,laboratory,laboratory,True,False,35.7234511,51.4241923,1988,,False
+موسسه پزشکی نسل امید,clinic,,clinic,True,False,35.7539352,51.4145726,1989,,False
+بیمارستان فوق‌تخصصی چشم آفتاب,hospital,hospital,hospital,True,True,35.7573581,51.2696629,1990,,False
+درمانگاه شبانه روزی ماهان,clinic,,clinic,True,False,35.7770778,51.3557088,1991,,False
+کلینیک فیزیوتراپی فرشته,hospital,hospital,hospital,True,True,35.7923509,51.4174712,1992,,False
+مطب دکتر نیما رضائی پزشک زیبایی,doctors,doctor,doctors,True,False,35.7975327,51.4080924,1993,,False
+مطب دکتر لیلا فرد ( مجموعه پوست، مو و لیزر ),doctors,doctor,doctors,True,False,35.8008787,51.4523646,1994,,False
+دکتر سید مجتبی علوی,doctors,doctor,doctors,True,False,35.7801984,51.4605673,2002,,False
+مطب دكتر ایفا اعتصامی  متخصص پوست مو لیزر و زیبایی,doctors,doctor,doctors,True,False,35.7557854,51.4101279,2004,,False
+کلینیک نورسا,,hospital,hospital,True,True,35.7836876,51.3615958,2006,,False
+کلینیک دندانپزشکی ژاو,clinic,clinic,clinic,True,False,35.7694698,51.3644388,2007,,False
+کلینیک تخصصی دندانپزشکی دکتر بغدادی,clinic,clinic,clinic,True,False,35.7652202,51.3585253,2008,,False
+دکتر فرزانه گلفام,doctors,doctor,doctors,True,False,35.7798821,51.363857,2009,,False
+مشاور خانواده و زوج درمانگر حمیلا بخشی,doctors,doctor,doctors,True,False,35.718112,51.414013,2012,,False
+کلینیک فوق تخصصی قلب جنین و کودک دکتر همتیان,doctors,doctor,doctors,True,False,35.7080148,51.3883464,2016,,False
+مرکز مشاوره تخصصی تفکر,doctors,doctor,doctors,True,False,35.7329929,51.1657487,2022,,False
+دندانپزشکی دکتر میلاد پناهگاهی,clinic,clinic,clinic,True,False,35.7459901,51.4114117,2028,,False
+مطب دکتر نوشین پیروی,doctors,doctor,doctors,True,False,35.7550048,51.3338006,2029,,False
+مطب چشم پزشکی دکتر سیامک مرادیان,doctors,doctor,doctors,True,False,35.7687698,51.4626628,2030,,False
+مطب دکتر حنانه عظیمی کلینیک حنان,clinic,clinic,clinic,True,False,35.7856951,51.3734008,2031,,False
+مطب دندانپزشکی آرمان,doctors,doctor,doctors,True,False,35.7712186,51.3801999,2035,,False
+کلینیک فوق تخصصی قلب و عروق دکتر الهام هوشمند,doctors,doctor,doctors,True,False,35.7599168,51.3301688,2036,,False
+مطب دکتر سلطانی متخصص زنان زایمان و نازایی,doctors,doctor,doctors,True,False,35.7381769,51.3266836,2039,,False
+مطب روان‌شناسی روان‌نما,clinic,clinic,clinic,True,False,35.7220258,51.4074989,2041,,False
+دندانپزشکی دکتر مهدی ملائی,clinic,clinic,clinic,True,False,35.770205,51.4400899,2042,,False
+آزمایشگاه دنیا,,laboratory,laboratory,True,False,35.7675628,51.4213982,2044,,False
+مطب دکتر کیانیان,clinic,clinic,clinic,True,False,35.7823376,51.4144977,2045,,False
+کلینیک جامع توانبخشی وحدت,clinic,clinic,clinic,True,False,35.7645236,51.4723225,2048,,False
+مطب دندانپزشکی دکتر ابوالفضل صبوری,doctors,doctor,doctors,True,False,35.729699,51.4371902,2049,,False
+مطب دکتر غزاله بزرگی نامی,doctors,doctor,doctors,True,False,35.7694177,51.4199766,2050,,False
+دکتر فرزاد نوری  جراح  فک و صورت,doctors,doctor,doctors,True,False,35.7711253,51.4151184,2051,,False
+کلینیک چشم پزشکی دکتر محمدرضا زرین,doctors,doctor,doctors,True,False,35.720206,51.3590484,2052,,False
+مطب دکتر آیسان رحیمی نیا,,doctor,doctor,True,False,35.7839881,51.3664086,2055,,False
+مطب تخصصی کودکان دکتر اکرم نوری,doctors,doctor,doctors,True,False,35.7472996,51.4501836,2056,,False
+مطب دندانپزشکی دکتر سمیرا سلطانپور نمین,doctors,doctor,doctors,True,False,35.7272215,51.3555251,2057,,False
+کلینیک مشاوره و روانشناسی و روانپزشکی پیروز,clinic,clinic,clinic,True,False,35.7575909,51.4080454,2058,,False
+دکترمسعودحیدری جراح پلاستیک و زیبایی,doctors,doctor,doctors,True,False,35.7821107,51.3856663,2060,,False
+مطب دکتر سعید سجادی,doctors,doctor,doctors,True,False,35.7651064,51.4384094,2062,,False
+کلینیک فیزیوتراپی یونیک پاور,doctors,doctor,doctors,True,False,35.7482867,51.3354207,2064,,False
+درمانگاه تخصصی ولیعصر عج,clinic,clinic,clinic,True,False,35.6828667,51.3871566,2066,,False
+مطب دکتر حسن هشیار متخصص اورولوژی,doctors,doctor,doctors,True,False,35.7743334,51.3570246,2068,,False
+دکتر علیرضا پیمان‌فر,doctors,doctor,doctors,True,False,35.7704562,51.4400396,2071,,False
+دکتر الهام عبدی,doctors,doctor,doctors,True,False,35.7704548,51.4400617,2072,,False
+مرکز لیزر و زیبایی دکترعمرانی,doctors,doctor,doctors,True,False,35.7824535,51.3767846,2073,,False
+فیزیوتراپی زعفرانیه,hospital,clinic,hospital,True,True,35.7986371,51.4138193,2076,,False
+کلینیک لیزر مو زائد و زیبایی آیرین,doctors,doctor,doctors,True,False,35.7692832,51.4770717,2078,,False
+دکتر مسعود صابری | جراح مغز و اعصاب,doctors,doctor,doctors,True,False,35.7860122,51.4263174,2082,,False
+دندانپزشکی دیجتال و ایمپلنت دکتر رضا بهرامی,doctors,doctor,doctors,True,False,35.7565123,51.3985854,2083,,False
+مطب دندانپزشکی دکتر فوزیه رضایی,doctors,doctor,doctors,True,False,35.711015,51.4027277,2084,,False
+مطب کایروپراکتیک دکتر رستگار آریا,doctors,doctor,doctors,True,False,35.816887,51.4805238,2086,,False
+مجموعه آر تی ام اس دکتر ذاکری iran.rtms,clinic,clinic,clinic,True,False,35.7653664,51.4411533,2088,,False
+دکتر سامه کشاورزیان | دندانپزشک زیبایی,hospital,hospital,hospital,True,True,35.7643708,51.4596663,2091,,False
+کلینیک دکتر محمد گلشنی,doctors,doctor,doctors,True,False,35.8053731,51.4612834,2093,,False
+مطب ارتوپدی دکتر شایان توابی,doctors,doctor,doctors,True,False,35.7873675,51.3838136,2094,,False
+ساختمان پزشکان فوق تخصصی سینا,doctors,doctor,doctors,True,False,35.7680356,51.4170533,2096,,False
+مطب دکتر اسماعیل محبوبی متخصص اعصاب و روان - روانپزشک,clinic,clinic,clinic,True,False,35.7588059,51.4137548,2098,,False
+مطب دکتر سبز,doctors,doctor,doctors,True,False,35.7953358,51.3963518,2100,,False
+کلینیک زیبایی محیا,clinic,clinic,clinic,True,False,35.6322542,51.3749846,2101,,False
+کلینیک پوست و زیبایی الیزه,clinic,clinic,clinic,True,False,35.7828938,51.3760561,2103,,False
+مطب دکتر سهیلا انصاری پور,doctors,doctor,doctors,True,False,35.7684355,51.291862,2105,,False
+کلینیک دندانپزشکی دکتر آیین آقایی,clinic,clinic,clinic,True,False,35.5911299,51.438928,2106,,False
+دندانپزشکی دکتر حبیبی,clinic,clinic,clinic,True,False,35.7743423,51.4906199,2107,,False
+مطب تخصصى جراحى لثه و ايمپلنت دكتر وطنى,doctors,doctor,doctors,True,False,35.7704054,51.4640613,2108,,False
+مطب دکتر مانی قربان زاده,doctors,doctor,doctors,True,False,35.7585015,51.3622923,2110,,False
+مطب دکتر آریا رضایی,doctors,doctor,doctors,True,False,35.7854068,51.4274877,2111,,False
+مطب دکتر سعید‌رضا انتظاری,doctors,doctor,doctors,True,False,35.7704095,51.3629788,2113,,False
+دکتر لیلا اصغری فوق تخصص غدد,doctors,doctor,doctors,True,False,35.7401333,51.405224,2114,,False
+دکتر سیف اله همت,doctors,doctor,doctors,True,False,35.8013113,51.4597939,2115,,False
+مطب دکتر شکیبا محبی تبار,doctors,doctor,doctors,True,False,35.75398,51.3959571,2116,,False
+درمانگاه مرکزی شهران,clinic,,clinic,True,False,35.7584517,51.289557,2117,,False
+مطب فيزيوتراپي و ليزرتراپي ١٢١,doctors,doctor,doctors,True,False,35.7096885,51.3735777,2118,,False
+مطب دکتر محبوبه رهنما,doctors,doctor,doctors,True,False,35.8088939,51.4152947,2119,,False
+دکتر مریم خدادوست,doctors,doctor,doctors,True,False,35.7275779,51.3788251,2121,,False
+کلینیک پزشکی دکتر شاهین سیف الو زخم,doctors,doctor,doctors,True,False,35.7675702,51.356757,2123,,False
+فیزیوتراپی توان گستر نوین,clinic,clinic,clinic,True,False,35.7271723,51.375066,2125,,False
+کلینیک تخصصی قلب و عروق ایران زمین,clinic,clinic,clinic,True,False,35.705742,51.3901072,2128,,False
+مطب دکتر آزاده مولوی مقدم,doctors,doctor,doctors,True,False,35.7756942,51.3660311,2129,,False
+كلينيك ارتوپدى دكتر محمد ربانى,clinic,clinic,clinic,True,False,35.6603485,51.3938083,2130,,False
+دکتر حدیث یگانه فرد متخصص بیماری های دهان و زیبایی,doctors,doctor,doctors,True,False,35.756464,51.4495714,2131,,False
+دکتر علیرضا تسلیمی متخصص جراحی لثه,doctors,doctor,doctors,True,False,35.756452,51.4495249,2132,,False
+دکتر محمد آزادگان متخصص کودکان و نوزادان,doctors,doctor,doctors,True,False,35.7387403,51.1332345,2134,,False
+دندانپزشکی دکتر فرهاد مهردادی,clinic,clinic,clinic,True,False,35.769226,51.3598066,2135,,False
+کلینیک روانشناسی و مشاوره آسنا,doctors,doctor,doctors,True,False,35.756746,51.3929947,2136,,False
+دکتر علی زینلی متخصص جراحی مغز و اعصاب,doctors,doctor,doctors,True,False,35.7238837,51.4231747,2137,,False
+کلینیک ارتوپدی و ارتوپدفنی نویان,doctors,doctor,doctors,True,False,35.7342598,51.3542897,2139,,False
+دکتر منصور عظمتی,clinic,clinic,clinic,True,False,35.7580052,51.4144545,2143,,False
+مطب دکتر کامران دلیر,doctors,doctor,doctors,True,False,35.7697674,51.3591402,2146,,False
+مطب مامایی لیلا شجاع,clinic,clinic,clinic,True,False,35.7383117,51.5582018,2147,,False
+رقیه عزیززاده کارشناس مامایی,doctors,doctor,doctors,True,False,35.628372,51.3561075,2149,,False
+دکتر امیرحسین خیراندیش جراحی عمومی,doctors,doctor,doctors,True,False,35.7761134,51.365739,2151,,False
+مطب دکتر سمیه حجازی نیا,doctors,doctor,doctors,True,False,35.7800091,51.4487781,2154,,False
+دکتر ندا پژوهی  - دکتر لیپ,doctors,doctor,doctors,True,False,35.7105663,51.4081985,2155,,False
+دکتر سمیرا عبدالهی مقدم متخصص زنان و زایمان,doctors,doctor,doctors,True,False,35.775494,51.3642478,2156,,False
+دکتر رحمت اله آزادی متخصص و جراح استخوان و مفاصل,doctors,doctor,doctors,True,False,35.7417091,51.5333096,2161,,False
+دکتر محمودرضا اشرفی,doctors,doctor,doctors,True,False,35.7042051,51.383244,2162,,False
+دكتر شهرام محمدى ميرى,doctors,doctor,doctors,True,False,35.7594686,51.4422544,2163,,False
+دفتر روانشناسی حال خوش روانشناس مریم عالمی,doctors,doctor,doctors,True,False,35.7389786,51.5320068,2165,,False
+دکتر مهشید طالبی,doctors,doctor,doctors,True,False,35.7681929,51.4744463,2166,,False
+مطب دکتر حسین حاجی عباسی,doctors,doctor,doctors,True,False,35.7747039,51.4134902,2167,,False
+دکتر عزیزاله یوسفی فوق تخصص گوارش,doctors,doctor,doctors,True,False,35.7085198,51.3852179,2168,,False
+مطب دکتر زهراسادات سبزپوشان,doctors,doctor,doctors,True,False,35.7812506,51.3701904,2169,,False
+کلینیک زیبایی دکتر معروفی,clinic,clinic,clinic,True,False,35.7702484,51.361975,2171,,False
+دکتر رامین نوری نیا فوق تخصص شبکیه,doctors,doctor,doctors,True,False,35.7703834,51.4640348,2172,,False
+دکتر علی ابراهیمی فوق تخصص جراحی پلاستیک,doctors,doctor,doctors,True,False,35.7563044,51.3941456,2173,,False
+دفتر مشاوره و روانشناسی «کیمیای جان و خرد »,doctors,doctor,doctors,True,False,35.7242713,51.4166238,2174,,False
+مطب دكترمريم السادات تهرانی فوق تخصص ریه,clinic,clinic,clinic,True,False,35.7271054,51.3708018,2175,,False
+دکتر فرهاد مرادی فوق تخصص گوارش و کبد,clinic,clinic,clinic,True,False,35.726268,51.3238746,2177,,False
+کلینیک درد و توانبخشی سدار,doctors,doctor,doctors,True,False,35.8009681,51.4527443,2179,,False
+کاردرمانی پیشگام,doctors,doctor,doctors,True,False,35.7248937,51.3828175,2180,,False
+پردیس مارال دکتر مالکی دکتر تیمور زاده,clinic,clinic,clinic,True,False,35.7706041,51.3723257,2182,,False
+مرکز تصویر برداری جام‌جم,doctors,doctor,doctors,True,False,35.7697352,51.4119423,2186,,False
+کلینیک زیبایی و درمان بیماری های پوستی دکتر پارسا شیری,clinic,clinic,clinic,True,False,35.7363398,51.4424064,2187,,False
+دکتر شیرین کاویانپور متخصص  بیماریهای زنان و زایمان,doctors,doctor,doctors,True,False,35.8120724,51.4496944,2188,,False
+خانه لیزر سعادت آباد شعبه دریا,clinic,clinic,clinic,True,False,35.7706477,51.3744944,2189,,False
+خانه لیزر سعادت آباد شعبه سرو,clinic,clinic,clinic,True,False,35.7799827,51.3648638,2190,,False
+مطب زیبایی دکتر رکسانا احسانی پور,doctors,doctor,doctors,True,False,35.7829062,51.4478241,2191,,False
+کمپ ترک اعتیاداوای رهایی,doctors,doctor,doctors,True,False,35.8093299,51.5134796,2192,,False
+مطب دکتر مریم تزنگ/متخصص رادیوانکولوژی,doctors,doctor,doctors,True,False,35.7008923,51.3810245,2195,,False
+کلینیک زیبایی دکتر علی اکبری,doctors,doctor,doctors,True,False,35.775607,51.3661494,2196,,False
+مطب دکتر پیمان صدری,doctors,doctor,doctors,True,False,35.7665878,51.4137575,2198,,False
+ریمالند,clinic,clinic,clinic,True,False,35.730166,51.348554,2203,,False
+کلینیک شنوایی و تعادل و سمعک فرمانیه,clinic,clinic,clinic,True,False,35.7990052,51.4725885,2204,,False
+دکتر وقردوست,doctors,doctor,doctors,True,False,35.7589604,51.4138976,2205,,False
+مطب دکتر رضا راست منش,doctors,doctor,doctors,True,False,35.7799669,51.4492648,2210,,False
+روان‌شناس و مشاور، حمیده حیدری,clinic,clinic,clinic,True,False,35.724125,51.4356098,2211,,False
+مطب دندانپزشکی سیب,clinic,clinic,clinic,True,False,35.7881581,51.424003,2214,,False
+مطب دکترمحمدحسین طاهریان,doctors,doctor,doctors,True,False,35.759824,51.4061433,2217,,False
+کلینیک راز دکتر رضا امیرزرگر متخصص جراحی فک، صورت و زیبایی,doctors,doctor,doctors,True,False,35.8023747,51.4306148,2221,,False
+دکتر بیتا هرمز جراح زنان و زایمان,doctors,doctor,doctors,True,False,35.7697719,51.3129659,2222,,False
+کلینیک رومینا,clinic,clinic,clinic,True,False,35.7337633,51.5041539,2223,,False
+پوست و مو زیبایی دکتر علیخانی,clinic,,clinic,True,False,35.7238042,51.4072451,2224,,False
+دکتر خشایار سنجری,doctors,doctor,doctors,True,False,35.7584421,51.3617244,2227,,False
+فيزيوتراپي كيان پارس,doctors,doctor,doctors,True,False,35.730133,51.5273482,2228,,False
+کلینیک تخصصی سونوگرافی دکتر دلیری,doctors,doctor,doctors,True,False,35.6574055,51.3727147,2229,,False
+کلینیک دکتر سحرناز سجادیان,doctors,doctor,doctors,True,False,35.7584296,51.3620348,2230,,False
+مطب دکتر مرتضی حسن‌زاده فوق تخصص گوارش و کبد,doctors,doctor,doctors,True,False,35.7664736,51.4425913,2231,,False
+درمانگاه شبانه روزی دکتر نوتاش,doctors,doctor,doctors,True,False,35.7267036,51.3202554,2233,,False
+کلینیک نازایی نوید,clinic,clinic,clinic,True,False,35.7675809,51.3725937,2234,,False
+درمانگاه شبانه روزی ایران زمین,clinic,clinic,clinic,True,False,35.7056071,51.3902334,2235,,False
+مطب دندانپزشكى كودكان دكتر مژده بقايی,doctors,doctor,doctors,True,False,35.775312,51.4637914,2236,,False
+مطب سیدحسین حسنپور اونجی,doctors,doctor,doctors,True,False,35.7390945,51.5313798,2237,,False
+مطب دکتر عبدالرضا نوروزی متخصص تغذیه,clinic,clinic,clinic,True,False,35.7280466,51.4269452,2239,,False
+مطب دکتر جوراستی فرد,doctors,doctor,doctors,True,False,35.7421561,51.4112156,2240,,False
+مطب دکتر امیر بابک رحیمی,doctors,doctor,doctors,True,False,35.7243129,51.3839552,2241,,False
+مرکز دندانپزشکی دکتر مریم سالارکیا,clinic,clinic,clinic,True,False,35.7265432,51.5226334,2242,,False
+بیمارستان محک ،کودکان سرطانی,hospital,,hospital,True,True,35.8113149,51.5044509,2244,,False
+Maryam Beauty & Care Clinic,clinic,,clinic,True,False,35.7648296,51.441583,2245,,False
+دکتر کامران هداوند جراح چاقی و لاپاراسکوپی,doctors,doctor,doctors,True,False,35.7487869,51.4095856,2246,,False
+شعبه مرکزی دندانپزشکی سرو,clinic,clinic,clinic,True,False,35.7854332,51.4408382,2249,,False
+دکتر فاطمه خوشدل  روانشناس و هیپنوتراپیست,doctors,doctor,doctors,True,False,35.7812101,51.3614178,2250,,False
+درمانگاه تامین اجتماعی شهیدنیکپور,hospital,,hospital,True,True,35.6673003,51.4462252,2252,,False
+دکتر محمدرضا عباسی فوق تخصص کبد و گوارش,hospital,hospital,hospital,True,True,35.7566875,51.3949434,2253,,False
+محمدرضا عباسی فوق تخصص گوارش,hospital,hospital,hospital,True,True,35.7567132,51.3948691,2254,,False
+دکتر عطیه بهمن متخصص زنان و زایمان,doctors,doctor,doctors,True,False,35.7566301,51.3948426,2256,,False
+کلینیک زیبایی سپند,doctors,doctor,doctors,True,False,35.7764444,51.3646735,2258,,False
+کلینیک دندانپزشکی سرو قیطریه (شعبه مرکز),clinic,clinic,clinic,True,False,35.7856193,51.4408794,2259,,False
+دکتر الهام اسلامی متخصص کلیه و‌مجاری ادراری,doctors,doctor,doctors,True,False,35.7816375,51.3729077,2260,,False
+مطب پوست و زیبایی و لیزر دکتر قدیرزاده,doctors,doctor,doctors,True,False,35.6684925,51.444231,2265,,False
+مطب دندانپزشکی دکتر فرشاد صدر,doctors,doctor,doctors,True,False,35.8119444,51.464061,2266,,False
+بیمارستان مادران,hospital,hospital,hospital,True,True,35.7300893,51.4337373,2267,,False
+مطب دکتر بابک میرزاشاهی,doctors,doctor,doctors,True,False,35.7585015,51.3618564,2268,,False
+مطب پزشکی جراحی مغز و اعصاب,doctors,doctor,doctors,True,False,35.7712899,51.3777733,2270,,False
+مطب دکتر سید فرنوش مدنی گاوگانی,doctors,doctor,doctors,True,False,35.7922112,51.4532791,2271,,False
+کلینیک پوست و مو و زیبایی دکتر دمشقی,clinic,clinic,clinic,True,False,35.7382096,51.3107734,2273,,False
+پزشك فوق تخصص جراح سرطان سينه دکتر على حجت,doctors,doctor,doctors,True,False,35.7818029,51.3735593,2275,,False
+دندانپزشکی دکتر پورفرید,doctors,doctor,doctors,True,False,35.770234,51.4223143,2276,,False
+مطب زنان و زایمان دکتر آرزو صفری فر,doctors,doctor,doctors,True,False,35.7269624,51.5271608,2277,,False
+مطب دکتر نجمه باقرحسینی,clinic,clinic,clinic,True,False,35.780009,51.4493705,2278,,False
+دکتر مسعودی متخصص پوست مو زیبایی لیزر,doctors,doctor,doctors,True,False,35.7307968,51.378516,2279,,False
+مطب دکتر مهرناز چاوشی حسینی,doctors,doctor,doctors,True,False,35.7711645,51.3831282,2281,,False
+مطب دکتر پرویز چگینی,doctors,doctor,doctors,True,False,35.742072,51.4103264,2286,,False
+دکتر حاتمی کلینیک تخصصی آرمان الهیه,doctors,doctor,doctors,True,False,35.794933,51.4820096,2288,,False
+کلینیک ارتوپدی بهین,doctors,doctor,doctors,True,False,35.801418,51.4794511,2289,,False
+متخصص زنان و زایمان دکتر مریم نادری فر,doctors,doctor,doctors,True,False,35.7808045,51.4631841,2290,,False
+مطب دکتر سادات,doctors,doctor,doctors,True,False,35.7630631,51.4506956,2291,,False
+ازمایشگاه تخصصی پاتوبیولوژی رها,,laboratory,laboratory,True,False,35.7404676,51.5326425,2292,,False
+دکتر زهره کریمی متخصص زنان فلوشیپ پریناتولوژی,doctors,doctor,doctors,True,False,35.7135902,51.3685318,2294,,False
+فوق تخصص بیماری های ریوی و اسم ‌آلرژی دکتر زحمتکش,doctors,doctor,doctors,True,False,35.7664634,51.4428401,2295,,False
+مطب روانشناسی دکتر مریم باباخانی,doctors,doctor,doctors,True,False,35.7338578,51.4397718,2296,,False
+کلینیک پرسیس,doctors,doctor,doctors,True,False,35.7677056,51.3568871,2300,,False
+مطب دکتر وازریک تروسیان,doctors,doctor,doctors,True,False,35.7241563,51.4166049,2301,,False
+مطب لیزر پوست و مو هفت تیر,clinic,clinic,clinic,True,False,35.7197645,51.4254264,2303,,False
+دکتر آمنه لاهوتی . فلوشیپ ناباروری و آی وی اف,doctors,doctor,doctors,True,False,35.7478481,51.4017191,2305,,False
+مطب دکتر ملیحه عرب,doctors,doctor,doctors,True,False,35.7581469,51.361812,2307,,False
+دکتر سعید شیرنگی,doctors,doctor,doctors,True,False,35.7728542,51.3635009,2309,,False
+مطب عروق و واریس دکتر احمد صادقپور,doctors,doctor,doctors,True,False,35.7236389,51.4121685,2310,,False
+کلینیک صدیق,hospital,hospital,hospital,True,True,35.770173,51.3750103,2313,,False
+متخصص پوست دکتر سیامک داودی,doctors,doctor,doctors,True,False,35.7323814,51.4324273,2314,,False
+فیزیوتراپی بیمارستان توس,clinic,clinic,clinic,True,False,35.7243269,51.414477,2315,,False
+سونوگرافی و رادیولوژی نیاوران,clinic,clinic,clinic,True,False,35.811789,51.4653822,2318,,False
+مطب دکتر فراهینی متخصص ارتوپدی، فلوشیپ جراحی زانو,doctors,doctor,doctors,True,False,35.7566552,51.4103936,2319,,False
+فیزیوتراپی شفاگستر,doctors,doctor,doctors,True,False,35.7585383,51.353088,2320,,False
+هیرمن اسپا,doctors,doctor,doctors,True,False,35.7824874,51.3730942,2322,,False
+کلینیک اندومتریوز,clinic,clinic,clinic,True,False,35.799899,51.4504197,2323,,False
+مطب پوست و مو و زیبایی دکتر سیمین ایرانپور,doctors,doctor,doctors,True,False,35.7538874,51.461621,2324,,False
+کلینیک مهرافرا,clinic,clinic,clinic,True,False,35.7676291,51.3552043,2325,,False
+مطب دكتر آرزو آستركی,doctors,doctor,doctors,True,False,35.7637468,51.4454638,2327,,False
+کلینیک سوان,clinic,clinic,clinic,True,False,35.8019458,51.4536991,2328,,False
+دفتر مشاوره و روانشناسی ماه تاب,clinic,clinic,clinic,True,False,35.7637092,51.4453887,2330,,False
+پارس کلینیک,doctors,doctor,doctors,True,False,35.745702,51.4116245,2331,,False
+آزمایشگاه آنلاین نمونت,,laboratory,laboratory,True,False,35.6952184,51.3750528,2332,,False
+کلینیک سرنا شعبه زعفرانیه,doctors,doctor,doctors,True,False,35.8078176,51.4192964,2333,,False
+مطب دکتر کمال کوچک زاده,doctors,doctor,doctors,True,False,35.7239442,51.4232288,2337,,False
+رادیولوژی و سونوگرافی دولت,doctors,doctor,doctors,True,False,35.7793088,51.4448965,2341,,False
+مطب دکتر کتایون قویمی متخصص زنان وزیبایی,doctors,doctor,doctors,True,False,35.7817152,51.3736084,2342,,False
+سونوگرافی ماموگرافی و تراکم استخوان دریا,clinic,clinic,clinic,True,False,35.7709947,51.3663409,2343,,False
+کلینیک قلب دکتر آرسیس احمدیه,clinic,clinic,clinic,True,False,35.758237,51.3619024,2344,,False
+مطب دکتر سید فرامرز مدنی,doctors,doctor,doctors,True,False,35.783891,51.4541579,2345,,False
+دکترحسین صالحی فوق تخصص اعصاب روان کودک نوجوان,doctors,doctor,doctors,True,False,35.7797703,51.4492933,2346,,False
+آتیناطب,doctors,doctor,doctors,True,False,35.7516953,51.2862573,2348,,False
+وانیا مطب دکتر ایین فرد,doctors,doctor,doctors,True,False,35.7620493,51.417446,2349,,False
+کلینیک پوست مو دکتر هدیه دهقانپور,doctors,doctor,doctors,True,False,35.7828767,51.3753602,2351,,False
+کلینیک زیبایی آفتاب,clinic,clinic,clinic,True,False,35.7440294,51.5285088,2352,,False
+کلینیک زیبایی دکتر ریحانه احمدخانی,doctors,doctor,doctors,True,False,35.8013346,51.4182397,2356,,False
+مشاوره روانشناسی مانداکلینیک,clinic,clinic,clinic,True,False,35.7242235,51.4216995,2357,,False
+کلینیک قلب دکتر احسان سخاوتی مقدم,clinic,clinic,clinic,True,False,35.6571212,51.3689619,2359,,False
+آزمایشگاه پاتوبیولوژی ستاره ونک,doctors,doctor,doctors,True,False,35.7586794,51.4131438,2361,,False
+کلینیک روان شناسی ابران دکتر متین چهارراهی,doctors,doctor,doctors,True,False,35.7813537,51.3656572,2362,,False
+مرکز تصویربرداری پزشکی بیمارستان ساسان,doctors,doctor,doctors,True,False,35.7108729,51.4024799,2363,,False
+مطب جراحی پلاستیک دکتر محمدرضا فره وش,doctors,doctor,doctors,True,False,35.7686576,51.4198251,2364,,False
+unnamed,,hospital,hospital,True,True,35.77879748769659,51.3168809606812,2365,,False
+بیمارستان لقمان حکیم,hospital,hospital,hospital,True,True,35.6800987467563,51.38802381669221,2367,,False
+بیمارستان فیروزگر,hospital,hospital,hospital,True,True,35.70940659260182,51.40993278052033,2368,,False
+بیمارستان نجمیه,hospital,hospital,hospital,True,True,35.694248209008045,51.410892616543556,2369,,False
+بیمارستان پیامبران,hospital,hospital,hospital,True,True,35.7346140316582,51.327959627546484,2370,,False
+بیمارستان میلاد,hospital,hospital,hospital,True,True,35.745475549849495,51.381265706837816,2371,,False
+بیمارستان فوق تخصصی گلستان نداجا,hospital,hospital,hospital,True,True,35.77247553641362,51.47205729222173,2372,,False
+پلی‌کلینیک ۱۶ آذر,clinic,clinic,clinic,True,False,35.7023761935295,51.39321449727668,2374,,False
+بیمارستان لاله,hospital,hospital,hospital,True,True,35.75254658921903,51.360438415151485,2375,,False
+بیمارستان خاتم الانبیاء,hospital,hospital,hospital,True,True,35.76994451747533,51.40783098675363,2376,,False
+بیمارستان ولیعصر(عج)فراجا,hospital,hospital,hospital,True,True,35.76800529028534,51.409646315389224,2377,,False
+unnamed,,hospital,hospital,True,True,35.77615633705908,51.365481840157955,2378,,False
+بیمارستان فوق تخصصی محک,hospital,,hospital,True,True,35.811401641099124,51.504554595970696,2379,,False
+بیمارستان بانک ملی ایران,hospital,hospital,hospital,True,True,35.693192171434546,51.41776927739244,2380,,False
+مجتمع بیمارستانی امام خمینی,hospital,hospital,hospital,True,True,35.70806365164816,51.38111814750734,2381,,False
+بیمارستان شهید چمران,hospital,hospital,hospital,True,True,35.793769653631266,51.487587766500624,2382,,False
+بیمارستان فیروزآبادی,hospital,hospital,hospital,True,True,35.5946473534632,51.4364007057721,2383,,False
+بیمارستان شهید مدرس,hospital,hospital,hospital,True,True,35.78768534172641,51.37214117600367,2384,,False
+بیمارستان بهمن,hospital,hospital,hospital,True,True,35.76563893333334,51.380566733333325,2385,,False
+بیمارستان پارسیان,hospital,hospital,hospital,True,True,35.78406081396584,51.38262413940386,2386,,False
+کلینیک زیبایی پریس,clinic,clinic,clinic,True,False,35.78176245735173,51.44898450314894,2388,,False
+کلینیک جامع اعصاب و روان آتیه,clinic,clinic,clinic,True,False,35.761089603590875,51.411936899745285,2389,,False
+بیمارستان آتیه,hospital,hospital,hospital,True,True,35.76533379380745,51.361571935217846,2392,,False
+بیمارستان رازی تخصصی پوست,hospital,hospital,hospital,True,True,35.67167816659596,51.40881368082343,2400,,False
+پژوهشگاه رویان /سلول‌های بنیادی و درمان ناباروری,clinic,clinic,clinic,True,False,35.75562119856446,51.467809482363364,2401,,False
+بیمارستان امام رضا / ۵۰۱ ارتش,hospital,hospital,hospital,True,True,35.71717123256889,51.382763118507214,2402,,False
+بیمارستان هدایت,hospital,hospital,hospital,True,True,35.771405001643274,51.44918313085175,2404,,False
+درمانگاه تخصصی شهید سلیمانی,clinic,clinic,clinic,True,False,35.6012954945779,51.43803007649925,2405,,False
+بیمارستان رسالت,hospital,hospital,hospital,True,True,35.74227563237589,51.449007150883816,2406,,False
+unnamed,clinic,clinic,clinic,True,False,35.73402471979589,51.186584703419484,2407,,False
+شرکت فناوری بن‌یاخته‌های رویان,clinic,clinic,clinic,True,False,35.7547937,51.46746285,2408,,False
+بیمارستان الغدیر,hospital,hospital,hospital,True,True,35.746290686478986,51.50026253988185,2409,,False
+درمانگاه خیریه آل رسول,clinic,clinic,clinic,True,False,35.73853723813362,51.51269642168293,2410,,False
+مرکز فوق تخصصی آموزشی،درمانی جراحی ترمیمی و پلاستیک حضرت فاطمه(س),hospital,hospital,hospital,True,True,35.730696649960635,51.40832868660717,2412,,False
+unnamed,clinic,clinic,clinic,True,False,35.75602586666666,51.34553605607816,2413,,False
+درمانگاه قدس,clinic,clinic,clinic,True,False,35.75651603577076,51.343897118664366,2414,,False
+بیمارستان موقوفه نور افشار,hospital,,hospital,True,True,35.81976963532377,51.47336099397057,2415,,False
+بیمارستان بهارلو,hospital,hospital,hospital,True,True,35.660842748098005,51.39377315511017,2416,,False
+مرکز پزشکی شهید شوریده,hospital,hospital,hospital,True,True,35.69094552900639,51.39861539101909,2417,,False
+بیمارستان آیت ا...طالقانی(ره),hospital,hospital,hospital,True,True,35.7995552883252,51.401830814935245,2420,,False
+بیمارستان هاشمی نژاد,hospital,hospital,hospital,True,True,35.76097772648726,51.41081925332956,2422,,False
+سازمان انتقال خون استان تهران,,blood_donation,blood_donation,False,True,35.70623712767706,51.39890611848209,2423,,False
+بیمارستان مصطفی خمینی,hospital,hospital,hospital,True,True,35.707968635997354,51.401012887404235,2424,,False
+بیمارستان آریا,hospital,hospital,hospital,True,True,35.70859468199018,51.397700970272226,2425,,False
+بیمارستان قلب شهید رجایی,hospital,hospital,hospital,True,True,35.7744647050968,51.41079074422836,2426,,False
+بیمارستان کودکان شهید محمدحسین فهمیده,hospital,hospital,hospital,True,True,35.66855680154027,51.38256121738889,2427,,False
+بیمارستان پارسا,hospital,hospital,hospital,True,True,35.66508127495397,51.39868138201043,2429,,False
+بیمارستان امیرالمؤمنین,hospital,hospital,hospital,True,True,35.64252827451385,51.39399311378828,2430,,False
+بیمارستان مفرح,hospital,hospital,hospital,True,True,35.633758795170195,51.39690848401241,2431,,False
+بیمارستان دکتر شریعتی,hospital,hospital,hospital,True,True,35.721264909552374,51.38617942264705,2432,,False
+بیمارستان رسول اکرم,hospital,hospital,hospital,True,True,35.71942322526295,51.37017024617875,2433,,False
+بیمارستان شهید لبافی نژاد,hospital,hospital,hospital,True,True,35.76747170241719,51.46274123706512,2438,,False
+بیمارستان سیدالشهدا,hospital,hospital,hospital,True,True,35.67744096188939,51.416539176695295,2439,,False
+بیمارستان و درمانگاه فوق تخصصی مرکز درمانی ضیائیان,hospital,hospital,hospital,True,True,35.6574963632079,51.3591024836112,2440,,False
+کلینیک فوق تخصصی چشم نگاه,clinic,clinic,clinic,True,False,35.75240279999999,51.447464200000006,2441,,False
+بیمارستان کودکان حضرت علی اصغر,hospital,hospital,hospital,True,True,35.767388599236256,51.42599559885438,2442,,False
+بیمارستان چشم پزشکی نور,hospital,hospital,hospital,True,True,35.771254291470136,51.41270629673146,2443,,False
+بیمارستان ۱۵ خرداد,hospital,hospital,hospital,True,True,35.7126642473036,51.41317996397649,2446,,False
+کلینیک شهید احمدی,clinic,,clinic,True,False,35.64313365336125,51.360237237597566,2447,,False
+ساختمان پزشکان شهران,clinic,clinic,clinic,True,False,35.751616150000004,51.28812429999999,2449,,False
+مرکز اهدای خون مترو شهرری,,blood_donation,blood_donation,False,True,35.59432432902639,51.42335591811623,2450,,False
+بیمارستان خیریه حضرت صدیقه زهرا,hospital,hospital,hospital,True,True,35.62361591768826,51.45670554364307,2451,,False
+بیمارستان شهدای هفتم تیر,hospital,hospital,hospital,True,True,35.59235505574908,51.4187684691661,2452,,False
+بیمارستان صدر (به آفرین),hospital,hospital,hospital,True,True,35.708645833544416,51.410690749674565,2453,,False
+بیمارستان اختر,hospital,hospital,hospital,True,True,35.78916811875211,51.43173163130067,2454,,False
+بیمارستان مسیح دانشوری,hospital,hospital,hospital,True,True,35.81594950803027,51.49672981488967,2455,,False
+بیمارستان شهید باهنر,hospital,hospital,hospital,True,True,35.813265315046394,51.464555030335156,2456,,False
+بیمارستان تهرانپارس,hospital,hospital,hospital,True,True,35.74244617197873,51.53309527047815,2459,,False
+بیمارستان قمر بنی هاشم,hospital,hospital,hospital,True,True,35.7415352,51.45584650000001,2461,,False
+بیمارستان آبان,hospital,hospital,hospital,True,True,35.71160515,51.412494900000006,2466,,False
+بیمارستان البرز,hospital,hospital,hospital,True,True,35.70262338083166,51.4000556039005,2468,,False
+بیمارستان تهران,hospital,hospital,hospital,True,True,35.71776742623962,51.41954038617773,2469,,False
+بیمارستان توس,hospital,,hospital,True,True,35.72456255,51.41470565,2470,,False
+بیمارستان کسری,hospital,hospital,hospital,True,True,35.73924368762191,51.415342959407276,2472,,False
+بیمارستان کودکان تهران,hospital,hospital,hospital,True,True,35.70626122632644,51.40721820437941,2473,,False
+بیمارستان مرکز طبی کودکان,hospital,hospital,hospital,True,True,35.70617228684331,51.38242821657499,2474,,False
+بیمارستان تهران کلینیک,hospital,hospital,hospital,True,True,35.72584237453486,51.41813653582141,2477,,False
+بیمارستان اقبال,hospital,hospital,hospital,True,True,35.6957983858734,51.37581210070735,2478,,False
+بیمارستان مروستی,hospital,hospital,hospital,True,True,35.696971816481174,51.41160727335035,2479,,False
+بیمارستان عیوض زاده (سورنا),hospital,hospital,hospital,True,True,35.692038241332874,51.4066617199091,2480,,False
+بیمارستان باهر,hospital,hospital,hospital,True,True,35.69210445,51.405902749999996,2481,,False
+بیمارستان مدائن,hospital,,hospital,True,True,35.69912693280963,51.40346466563746,2482,,False
+بیمارستان سوم شعبان,hospital,hospital,hospital,True,True,35.67213699820132,51.44074241736898,2483,,False
+بیمارستان ولی عصر عج,hospital,hospital,hospital,True,True,35.656070474735884,51.42178188592777,2486,,False
+بیمارستان آیت‌الله اشرفی اصفهانی,hospital,hospital,hospital,True,True,35.66841310292529,51.42779842243231,2487,,False
+بیمارستان مهدیه,hospital,hospital,hospital,True,True,35.65208185,51.434579649999996,2490,,False
+بیمارستان آیت الله کاشانی,hospital,hospital,hospital,True,True,35.64000321341102,51.42071993479835,2495,,False
+بیمارستان شهدای یافت آباد,hospital,hospital,hospital,True,True,35.643895900000004,51.310445099999995,2497,,False
+بیمارستان ۵۰۵ ارتش,hospital,hospital,hospital,True,True,35.81126145179736,51.49880918509783,2502,,False
+مجتمع پزشکی حضرت فاطمه الزهرا,hospital,hospital,hospital,True,True,35.5907888791854,51.4264785290974,2504,,False
+شرکت مادر تخصصی پالایش و پژوهش خون ایران,,blood_donation,blood_donation,False,True,35.74731567853109,51.373192585680094,2505,,False
+بیمارستان فرمانیه,hospital,hospital,hospital,True,True,35.79892992558839,51.47272184309982,2506,,False
+بیمارستان نیکان,hospital,hospital,hospital,True,True,35.799862815719734,51.48959542781405,2507,,False
+کلینیک آذر,clinic,clinic,clinic,True,False,35.74224042171103,51.411067967502056,2508,,False
+آزمایشگاه پارسا,,laboratory,laboratory,True,False,35.649100350000005,51.3923505,2511,,False
+درمانگاه شبانه‌روزی یاس,hospital,hospital,hospital,True,True,35.63380147765345,51.413563736577125,2513,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.650478270149236,51.45882930752094,2514,,False
+بیمارستان آرمان,hospital,hospital,hospital,True,True,35.77117165155566,51.39639970773047,2515,,False
+درمانگاه حضرت فاطمه س,clinic,clinic,clinic,True,False,35.64896282030152,51.483349753348904,2516,,False
+مرکز اهدای خون افسریه,,blood_donation,blood_donation,False,True,35.65445062537607,51.48813817140914,2517,,False
+بیمارستان دکتر سپیر,hospital,hospital,hospital,True,True,35.67860522861339,51.43105330811553,2521,,False
+بیمارستان محب مهر,,hospital,hospital,True,True,35.761384647433395,51.41046677807172,2523,,False
+بیمارستان یاس سپید,hospital,hospital,hospital,True,True,35.71039485,51.3977157,2524,,False
+unnamed,,hospital,hospital,True,True,35.65873633489825,51.41118810820441,2528,,False
+آزمایشگاه پزشکی,,laboratory,laboratory,True,False,35.6973421,51.41557125,2530,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.724867149999994,51.373332149999996,2535,,False
+مرکز توانبخشی سکته مغزی تبسم,clinic,clinic,clinic,True,False,35.710062937292626,51.37740226965103,2536,,False
+آزمایشگاه,,laboratory,laboratory,True,False,35.66834842949254,51.424887134347266,2537,,False
+بیمارستان امیراعلم,hospital,hospital,hospital,True,True,35.699891429316175,51.42531103813039,2538,,False
+درمانگاه حصار بوعلی,clinic,clinic,clinic,True,False,35.809978855422614,51.466232976790835,2542,,False
+کلینیک ثالث,clinic,clinic,clinic,True,False,35.66762374925828,51.404688169833484,2544,,False
+مرکز بهداشت و درمان صداوسیما,clinic,clinic,clinic,True,False,35.744740400000005,51.411229850000005,2546,,False
+unnamed,,clinic,clinic,True,False,35.68701700303756,51.38189922305086,2548,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.66209734354112,51.38350466000143,2549,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.66458698826552,51.391427966974334,2551,,False
+ساختمان پزشکان شفا,clinic,,clinic,True,False,35.74896145456871,51.47185905914414,2552,,False
+درمانگاه تخصصی اعصاب سهروردی,clinic,clinic,clinic,True,False,35.737777458776264,51.442728817736764,2553,,False
+درمانگاه خیریه علوی,clinic,clinic,clinic,True,False,35.680409979170165,51.405619486499496,2555,,False
+کلینیک شبانه روزی سعادت آباد,clinic,clinic,clinic,True,False,35.78309294093386,51.3773894241091,2556,,False
+درمانگاه قصرفیروزه,clinic,,clinic,True,False,35.65249865007006,51.49987329141405,2557,,False
+کلینیک تخصصی خانواده و کودک,clinic,clinic,clinic,True,False,35.79592421585347,51.3963018887824,2558,,False
+درمانگاه,clinic,clinic,clinic,True,False,35.79925483121262,51.3910799578216,2559,,False
+آزمایشگاه های مگنتوفتونیک,,laboratory,laboratory,True,False,35.80149858752599,51.394337585410725,2560,,False
+persianpet veterinary hospital,hospital,hospital,hospital,True,True,35.751789878342535,51.40100352865751,2563,,False
+درمانگاه شبانه‌روزی پیامبر,clinic,clinic,clinic,True,False,35.76826838350611,51.337165570418826,2564,,False
+بیمارستان فرهیختگان,hospital,hospital,hospital,True,True,35.77898029818655,51.31701464079232,2568,,False
+بیمارستان بقیه الله الاعظم,hospital,hospital,hospital,True,True,35.75596303803648,51.3952033923308,2570,,False
+درمانگاه شبیر,clinic,clinic,clinic,True,False,35.654603117226245,51.445120150095775,2571,,False
+درمانگاه دانشگاه امام صادق,clinic,clinic,clinic,True,False,35.77011680438796,51.38370024931428,2573,,False
+ساختمان پزشکان فارابی,clinic,clinic,clinic,True,False,35.77474798582716,51.48493089197106,2576,,False
+یمارستان فوق تخصصی عدل,hospital,hospital,hospital,True,True,35.79192669309376,51.37848937524345,2577,,False
+بیمارستان سلامت فردا,hospital,hospital,hospital,True,True,35.74368823718312,51.327500297168406,2578,,False
+بیمارستان جم,hospital,,hospital,True,True,35.72289692832235,51.422962074828355,2579,,False
+آزمایشگاه پاتوبیولوژی عماد,,laboratory,laboratory,True,False,35.72354624446665,51.42387946288486,2580,,False
+مرکز تخصصی دندانپزشکی دکتر بهرام شکری,clinic,clinic,clinic,True,False,35.7539795,51.3923242,2581,,False
+مرکز تخصصی درمان وزوز گوش و سمعک -فراشنوا,clinic,audiologist,clinic,True,False,35.72168497065609,51.4074982436966,2583,,False
+بیمارستان روانپزشکی صدر,hospital,hospital,hospital,True,True,35.78958348917184,51.455738966025045,2588,,False
+مطب پوست و مو دکتر سینا صفایی,doctors,doctor,doctors,True,False,35.80202676673473,51.47853566005808,2589,,False
+کلینیک شبانه روزی نیاوران,clinic,clinic,clinic,True,False,35.81318158378008,51.438733581451885,2590,,False
+ساختمان پزشکان ساسان,clinic,clinic,clinic,True,False,35.79157436723542,51.48774905899782,2591,,False
+مرکز بهداشت سید الشهدای ازگل,clinic,,clinic,True,False,35.79242499421919,51.49658791846308,2593,,False
+بیمارستان امید,hospital,hospital,hospital,True,True,35.76558081214953,51.31613723040315,2594,,False
+بيمارستان عرفان نيايش,hospital,hospital,hospital,True,True,35.76558159089723,51.31562683131311,2595,,False
+درمانگاه شهرک امید,clinic,clinic,clinic,True,False,35.76301863939773,51.533447855796425,2598,,False
+بیمارستان سینا,hospital,hospital,hospital,True,True,35.68714111789747,51.41311444691623,2599,,False
+مرکز ‌بهداشت عباس آباد,clinic,clinic,clinic,True,False,35.572220739851616,51.46787088682352,2601,,False
+موسسه حسابرسی هوشیار ممیز,doctors,doctor,doctors,True,False,35.75914963561272,51.411539631175266,2603,,False
+مرکز پزشکی چند تخصصی یادمان,clinic,clinic,clinic,True,False,35.76929241965086,51.36453011711513,2605,,False
+مرکز جامع اهدای خون شهر ری (شهید علیرضا اسدی آذر),,blood_donation,blood_donation,False,True,35.58509449155975,51.447378739167156,2606,,False
+بیمارستان خیریه امام علی,hospital,hospital,hospital,True,True,35.65795459468426,51.263389734065655,2608,,False
+درمانگاه و خانه بهداشت حکیمیه,clinic,clinic,clinic,True,False,35.737295342985114,51.592007344604696,2609,,False
+آزمایشگاه پاتوبیولوژی دانش,,laboratory,laboratory,True,False,35.705184527394124,51.3998341572083,2611,,False
+درمانگاه شهدای بدر,hospital,hospital,hospital,True,True,35.64018170000001,51.441838800000006,2612,,False
+مرکز درمان ناباروری مام,clinic,clinic,clinic,True,False,35.74775915,51.401835999999996,2613,,False
+بیمارستان اکبر آبادی,hospital,hospital,hospital,True,True,35.66822698068202,51.42662157458127,2614,,False
+بیمارستان فوق تخصصی نیکان غرب و چشم آفتاب,hospital,hospital,hospital,True,True,35.75717583030222,51.27040221168465,2615,,False
+بیمارستان تندیس,hospital,hospital,hospital,True,True,35.77452277037678,51.421606179639575,2618,,False
+پلی کلینیک فداییان اسلام,clinic,clinic,clinic,True,False,35.6197002504963,51.43669663559777,2619,,False
+کلینیک تخصصی داخلی مسعود,clinic,clinic,clinic,True,False,35.73468166228821,51.38690062184917,2620,,False
+unnamed,hospital,hospital,hospital,True,True,35.64588904249628,51.49048712717059,2621,,False
+ساختمان پزشکان نگین زمرد,doctors,doctor,doctors,True,False,35.75797873623931,51.45065950929394,2622,,False
+بیمارستان دادگستری,hospital,hospital,hospital,True,True,35.700377637245886,51.41734062262756,2623,,False
+مرکز جامع خونگیری ستاری,,blood_donation,blood_donation,False,True,35.7472280753274,51.31541813867565,2624,,False
+ساختمان پزشكان مينا,clinic,clinic,clinic,True,False,35.7636351588123,51.443461855649794,2625,,False
+ساختمان پزشکان شباهنگ,clinic,clinic,clinic,True,False,35.70411308733542,51.38317506576109,2627,,False
+آزمایشگاه دکتر ریاضی,,laboratory,laboratory,True,False,35.72631689138422,51.32254376106712,2628,,False
+بیمارستان فارابی,hospital,hospital,hospital,True,True,35.67249320148156,51.39327567284609,2629,,False
+بیمارستان کودکان حکیم,hospital,hospital,hospital,True,True,35.63359504119919,51.32269383202237,2631,,False
+ستاد مرکز بحران طالقانی,clinic,clinic,clinic,True,False,35.75568912521964,51.42492407953292,2632,,False
+کلینیک والفجر,clinic,clinic,clinic,True,False,35.743345164759766,51.39525162982815,2633,,False
+بیمارستان عرفان,hospital,hospital,hospital,True,True,35.7761081693824,51.36548702487621,2635,,False
+بیمارستان قلب تهران,hospital,hospital,hospital,True,True,35.72047923129788,51.387845970419626,2636,,False
+درمانگاه شهرداری منطقه 21,clinic,clinic,clinic,True,False,35.72609176654196,51.17920558796592,2639,,False
+مرکز جامع سلامت نگین آزادی,clinic,clinic,clinic,True,False,35.701175813220736,51.38095386525486,2640,,False
+unnamed,,blood_donation,blood_donation,False,True,35.74785579408684,51.3742707196497,2641,,False
+Iranian Blood Transfusion Organization,,blood_donation,blood_donation,False,True,35.74827703185521,51.374411345724255,2642,,False
+unnamed,,blood_donation,blood_donation,False,True,35.747574054034075,51.37433842153606,2643,,False
+unnamed,,blood_donation,blood_donation,False,True,35.748607655121184,51.375177673041954,2644,,False
+ساختمان پزشکان هدیه,doctors,doctor,doctors,True,False,35.780766058261875,51.46234892441183,2645,,False
+بیمارستان ساسان,hospital,hospital,hospital,True,True,35.710930247557826,51.4028327226198,2646,,False
+درمانگاه شهید مطهری,clinic,clinic,clinic,True,False,35.674987543671975,51.51155057455721,2648,,False
+فیزیوتراپی کارنیک,clinic,clinic,clinic,True,False,35.71658978338333,51.40580945853258,2653,,False
+بیمارستان محب کوثر,hospital,hospital,hospital,True,True,35.73044536345287,51.40895770927293,2657,,False
+مرکز توانبخشی امید فردا,hospital,hospital,hospital,True,True,35.74719294308631,51.14475321540338,2658,,False
+ساختمان پزشکان طلا,clinic,clinic,clinic,True,False,35.74885565924741,51.40934970377503,2659,,False
+ساختمان پزشکان زیبا,doctors,doctor,doctors,True,False,35.76338101400032,51.445104942248,2664,,False
+کلینیک دکتر مهسا عاشقان,doctors,doctor,doctors,True,False,35.77060886275984,51.37442524415169,2666,,False
+دکتر سید محمد حسینی هوشیار,doctors,doctor,doctors,True,False,35.7868491,51.421834249999996,2668,,False
+unnamed,hospital,hospital,hospital,True,True,35.75521175852866,51.39441504836959,2670,,False
+Asam Pathobiology Laboratory,,laboratory,laboratory,True,False,35.79220029848726,51.43466426941144,2671,,False
+بیمارستان در حال احداث حضرت عبدالعظیم,hospital,,hospital,True,True,35.583804232424114,51.442810879952745,2673,,False
+sepidteb azmoon,,laboratory,laboratory,True,False,35.73217484846368,51.412834973569204,2674,,False
+کلینیک مغز و شناخت,clinic,clinic,clinic,True,False,35.7175725458959,51.409960851834306,2675,,False
+کلینیک شبانه روزی دکتر حمیدیه,clinic,clinic,clinic,True,False,35.73625137395222,51.44411595819885,2677,,False
+بیمارستان هوشمند مهدی,hospital,hospital,hospital,True,True,35.70927597980334,51.37889391315475,2678,,False
+مرکز تصویر برداری پزشکی امید نوین,hospital,hospital,hospital,True,True,35.75625717068038,51.39555402632608,2681,,False
+مرکز تصویربرداری پزشکی امید نوین,hospital,hospital,hospital,True,True,35.75625717068038,51.39555402632608,2682,,False
+مرکز تصیربرداری پزشکی امید نوین,hospital,hospital,hospital,True,True,35.75625717068038,51.39555402632608,2683,,False
+کلینیک دندانپزشکی رایا,clinic,clinic,clinic,True,False,35.77102391057846,51.41508445537188,2691,,False
+کلینیک دندانپزشکی نیاز (Niaz Dental Clinic),clinic,clinic,clinic,True,False,35.695271955656246,51.37715200469966,2694,,False

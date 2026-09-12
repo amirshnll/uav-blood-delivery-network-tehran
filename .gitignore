@@ -95,3 +95,4 @@ __marimo__/
 *.docx
 *.pdf
 paper.txt
+.DS_Store
