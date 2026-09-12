@@ -1,0 +1,10 @@
+scenario,route_count,intersecting_route_count,all_routes_safe
+CALM,1449,0,True
+N2S_5,1449,0,True
+S2N_5,1449,0,True
+E2W_5,1449,0,True
+W2E_5,1449,0,True
+N2S_10,1448,0,True
+S2N_10,1447,0,True
+E2W_10,1445,0,True
+W2E_10,1446,0,True
